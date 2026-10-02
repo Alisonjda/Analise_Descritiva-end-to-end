@@ -1,0 +1,2001 @@
+Id,Customer_Id,Customer_Name,City,State,Region
+1,C00001,Catarina Oliveira,Sena Madureira,AC,Norte
+2,C00002,Igor Cunha,Campina Grande,PB,Nordeste
+3,C00003,Isis Barbosa,Cantá,RR,Norte
+4,C00004,Evelyn da Luz,Cacoal,RO,Norte
+5,C00005,Sra. Lara Costela,Rio Branco,AC,Norte
+6,C00006,Maria Clara da Mata,Bayeux,PB,Nordeste
+7,C00007,Felipe Souza,Ji-Paraná,RO,Norte
+8,C00008,Brenda da Rocha,Ponta Grossa,PR,Sul
+9,C00009,Fernanda Lima,Vila Velha,ES,Sudeste
+10,C00010,Thales Gomes,Pelotas,RS,Sul
+11,C00011,Natália Martins,Patos,PB,Nordeste
+12,C00012,Gabriela Nogueira,Tarauacá,AC,Norte
+13,C00013,Lucca Viana,Itacoatiara,AM,Norte
+14,C00014,Dr. Gabriel Gomes,Cachoeiro de Itapemirim,ES,Sudeste
+15,C00015,Giovanna Aragão,Belém,PA,Norte
+16,C00016,Francisco das Neves,Nova Iguaçu,RJ,Sudeste
+17,C00017,Emanuel Duarte,Fortaleza,CE,Nordeste
+18,C00018,Pedro Lucas das Neves,Recife,PE,Nordeste
+19,C00019,Nina Rodrigues,Sobral,CE,Nordeste
+20,C00020,Sra. Clara da Conceição,São Bernardo do Campo,SP,Sudeste
+21,C00021,João Gabriel Lima,Pico,PI,Nordeste
+22,C00022,Melissa Carvalho,Recife,PE,Nordeste
+23,C00023,Sra. Joana Nascimento,Campina Grande,PB,Nordeste
+24,C00024,Maria Eduarda Costa,Pelotas,RS,Sul
+25,C00025,Pedro Henrique Vieira,Teresina,PI,Nordeste
+26,C00026,Maria Luiza Oliveira,Vitória da Conquista,BA,Nordeste
+27,C00027,Maria Rocha,Porto Alegre,RS,Sul
+28,C00028,Ana Luiza Monteiro,Parnaíba,PI,Nordeste
+29,C00029,Júlia Fernandes,Santa Maria,RS,Sul
+30,C00030,Lucas Cunha,Olinda,PE,Nordeste
+31,C00031,Leandro Duarte,Petrolina,PE,Nordeste
+32,C00032,Srta. Clara Moraes,Itajaí,SC,Sul
+33,C00033,Davi Teixeira,Contagem,MG,Sudeste
+34,C00034,Isabelly Viana,Curitiba,PR,Sul
+35,C00035,Miguel da Luz,Santana,AP,Norte
+36,C00036,João Lucas da Luz,Florianópolis,SC,Sul
+37,C00037,Thales Farias,Gravataí,RS,Sul
+38,C00038,Srta. Julia Caldeira,Blumenau,SC,Sul
+39,C00039,Maria Vitória da Conceição,Boa Vista,RR,Norte
+40,C00040,Bruna Silva,Rio de Janeiro,RJ,Sudeste
+41,C00041,Ana Rodrigues,Campinas,SP,Sudeste
+42,C00042,Dr. Heitor Mendes,Maringá,PR,Sul
+43,C00043,Isabella da Costa,Juazeiro do Norte,CE,Nordeste
+44,C00044,Daniel Novaes,Caxias,MA,Nordeste
+45,C00045,Miguel Cardoso,Juazeiro,BA,Nordeste
+46,C00046,Henrique Nunes,São Paulo,SP,Sudeste
+47,C00047,Melissa Melo,Itacoatiara,AM,Norte
+48,C00048,Helena Souza,Feira de Santana,BA,Nordeste
+49,C00049,Isis Alves,Tarauacá,AC,Norte
+50,C00050,Emilly Pires,Tocantinópolis,TO,Norte
+51,C00051,Dr. Erick da Rocha,Timon,MA,Nordeste
+52,C00052,João Vitor Vieira,Petrolina,PE,Nordeste
+53,C00053,Thales Pereira,Cascavel,PR,Sul
+54,C00054,Rodrigo Viana,Caruaru,PE,Nordeste
+55,C00055,Caroline da Mota,Ribeirão Preto,SP,Sudeste
+56,C00056,Dra. Kamilly Cardoso,Londrina,PR,Sul
+57,C00057,Enrico Barros,Juazeiro do Norte,CE,Nordeste
+58,C00058,Carlos Eduardo Cunha,Rolim de Moura,RO,Norte
+59,C00059,Guilherme Cavalcanti,João Pessoa,PB,Nordeste
+60,C00060,Felipe Pereira,Boa Vista,RR,Norte
+61,C00061,Milena Cardoso,Fortaleza,CE,Nordeste
+62,C00062,Emilly Fogaça,Linhares,ES,Sudeste
+63,C00063,Alexandre Pereira,Caruaru,PE,Nordeste
+64,C00064,Davi Alves,Bacabal,MA,Nordeste
+65,C00065,Sofia Sales,Ponta Grossa,PR,Sul
+66,C00066,Ana Julia Freitas,Curitiba,PR,Sul
+67,C00067,Ian Mendes,Mucajaí,RR,Norte
+68,C00068,Marina Porto,Santo André,SP,Sudeste
+69,C00069,Lívia Fernandes,Florianópolis,SC,Sul
+70,C00070,Bianca Freitas,Tarauacá,AC,Norte
+71,C00071,Emilly Barbosa,Vila Velha,ES,Sudeste
+72,C00072,Srta. Larissa da Mota,Bayeux,PB,Nordeste
+73,C00073,Raul da Luz,Ponta Grossa,PR,Sul
+74,C00074,Yasmin Monteiro,Caruaru,PE,Nordeste
+75,C00075,Cauã da Rosa,Sobral,CE,Nordeste
+76,C00076,Luiz Gustavo Moraes,Brasiléia,AC,Norte
+77,C00077,Ana Laura Oliveira,Cruzeiro do Sul,AC,Norte
+78,C00078,Larissa Novaes,Caicó,RN,Nordeste
+79,C00079,Sr. Ian Rezende,Ponta Grossa,PR,Sul
+80,C00080,Kevin Silva,Mazagão,AP,Norte
+81,C00081,Benjamin Mendes,Santarém,PA,Norte
+82,C00082,Julia Ribeiro,Santa Maria,RS,Sul
+83,C00083,Stephany da Rocha,Londrina,PR,Sul
+84,C00084,Ana Luiza Barros,Uberlândia,MG,Sudeste
+85,C00085,Dr. Arthur da Cunha,Caracaraí,RR,Norte
+86,C00086,Sophie Duarte,Brasiléia,AC,Norte
+87,C00087,Sr. Anthony da Paz,Chapecó,SC,Sul
+88,C00088,Lucas da Costa,Juazeiro,BA,Nordeste
+89,C00089,Helena da Costa,Araguaína,TO,Norte
+90,C00090,Vitória Monteiro,Porto Velho,RO,Norte
+91,C00091,Luiza Silva,Natal,RN,Nordeste
+92,C00092,Dra. Pietra Gonçalves,Juazeiro,BA,Nordeste
+93,C00093,Paulo Jesus,Castanhal,PA,Norte
+94,C00094,Diogo da Cunha,Niterói,RJ,Sudeste
+95,C00095,Pedro Henrique das Neves,Juiz de Fora,MG,Sudeste
+96,C00096,Nina Nogueira,Maringá,PR,Sul
+97,C00097,Bianca Costela,Porto Alegre,RS,Sul
+98,C00098,Luiz Otávio Costa,Castanhal,PA,Norte
+99,C00099,Pedro Lucas Melo,Brasiléia,AC,Norte
+100,C00100,Sr. João Gabriel Silveira,Olinda,PE,Nordeste
+101,C00101,Gabriela Farias,Vila Velha,ES,Sudeste
+102,C00102,Kamilly da Rosa,Niterói,RJ,Sudeste
+103,C00103,Marcela Silveira,Blumenau,SC,Sul
+104,C00104,Isadora Oliveira,Cantá,RR,Norte
+105,C00105,Luana Cardoso,Vila Velha,ES,Sudeste
+106,C00106,Dra. Emanuella Castro,Vitória,ES,Sudeste
+107,C00107,Eduarda Ramos,Jaboatão dos Guararapes,PE,Nordeste
+108,C00108,Vinicius Rezende,Parnaíba,PI,Nordeste
+109,C00109,Guilherme Moreira,São Bernardo do Campo,SP,Sudeste
+110,C00110,Sr. Thomas Nascimento,Tarauacá,AC,Norte
+111,C00111,Dr. André Cardoso,Vitória,ES,Sudeste
+112,C00112,Thales da Luz,Juiz de Fora,MG,Sudeste
+113,C00113,Vitor Gabriel Costa,Estância,SE,Nordeste
+114,C00114,Maitê Rodrigues,Florianópolis,SC,Sul
+115,C00115,Luiz Miguel Caldeira,Cruzeiro do Sul,AC,Norte
+116,C00116,João Miguel da Costa,Gurupi,TO,Norte
+117,C00117,Henrique das Neves,Mossoró,RN,Nordeste
+118,C00118,Murilo Ferreira,Itacoatiara,AM,Norte
+119,C00119,Srta. Maria Fernanda Correia,Parintins,AM,Norte
+120,C00120,Srta. Brenda Almeida,Juazeiro do Norte,CE,Nordeste
+121,C00121,Vitor Souza,Joinville,SC,Sul
+122,C00122,Letícia Fernandes,Imperatriz,MA,Nordeste
+123,C00123,Maysa Moraes,Londrina,PR,Sul
+124,C00124,Sra. Amanda Nogueira,Campinas,SP,Sudeste
+125,C00125,Gabriela da Paz,Uberlândia,MG,Sudeste
+126,C00126,Dr. Leonardo Barros,Ponta Grossa,PR,Sul
+127,C00127,Marcos Vinicius da Rosa,Santa Rita,PB,Nordeste
+128,C00128,Henrique da Mata,Niterói,RJ,Sudeste
+129,C00129,Diogo Gomes,Feira de Santana,BA,Nordeste
+130,C00130,Isabelly Farias,Pelotas,RS,Sul
+131,C00131,Isabella Mendes,Gurupi,TO,Norte
+132,C00132,Mirella Rodrigues,Ribeirão Preto,SP,Sudeste
+133,C00133,Lívia Gomes,Vitória,ES,Sudeste
+134,C00134,Pedro Lucas da Cruz,Juiz de Fora,MG,Sudeste
+135,C00135,Dra. Maria Clara Castro,Brasiléia,AC,Norte
+136,C00136,Julia Mendes,Pelotas,RS,Sul
+137,C00137,Sr. Enzo Rocha,Chapecó,SC,Sul
+138,C00138,Srta. Lara Vieira,Castanhal,PA,Norte
+139,C00139,Vinicius Fernandes,Recife,PE,Nordeste
+140,C00140,Daniela Fernandes,Cascavel,PR,Sul
+141,C00141,Vicente Farias,Floriano,PI,Nordeste
+142,C00142,Joaquim Teixeira,Caracaraí,RR,Norte
+143,C00143,Yuri Nunes,Serra,ES,Sudeste
+144,C00144,Dr. Nathan Cunha,São Bernardo do Campo,SP,Sudeste
+145,C00145,Sr. Augusto da Luz,Blumenau,SC,Sul
+146,C00146,Maria Alice Barros,Santa Rita,PB,Nordeste
+147,C00147,Levi Freitas,Joinville,SC,Sul
+148,C00148,Miguel Ferreira,Ribeirão Preto,SP,Sudeste
+149,C00149,Juliana Ferreira,Itacoatiara,AM,Norte
+150,C00150,Kaique Martins,Currais Novos,RN,Nordeste
+151,C00151,Nina Costela,Santo André,SP,Sudeste
+152,C00152,Matheus Novaes,Joinville,SC,Sul
+153,C00153,Cecília da Conceição,Joinville,SC,Sul
+154,C00154,Evelyn Barros,Tefé,AM,Norte
+155,C00155,Dra. Nina Souza,Vila Velha,ES,Sudeste
+156,C00156,Ana Júlia Lima,Contagem,MG,Sudeste
+157,C00157,Ana Carolina Pereira,Salvador,BA,Nordeste
+158,C00158,João Felipe da Mata,Estância,SE,Nordeste
+159,C00159,Benício da Rocha,Marabá,PA,Norte
+160,C00160,Cauê da Cruz,Caicó,RN,Nordeste
+161,C00161,Clara Pinto,Londrina,PR,Sul
+162,C00162,Arthur Martins,Palmas,TO,Norte
+163,C00163,Emanuel Costela,Londrina,PR,Sul
+164,C00164,Ana Sophia Costa,Cascavel,PR,Sul
+165,C00165,Bernardo da Rocha,Sobral,CE,Nordeste
+166,C00166,Emanuel Costa,Estância,SE,Nordeste
+167,C00167,Davi Lucas Gomes,Ribeirão Preto,SP,Sudeste
+168,C00168,Vicente da Conceição,Itajaí,SC,Sul
+169,C00169,Dr. Vinicius da Luz,Propriá,SE,Nordeste
+170,C00170,Francisco Araújo,Juiz de Fora,MG,Sudeste
+171,C00171,Sra. Maria Luiza Cardoso,Joinville,SC,Sul
+172,C00172,Dr. Pedro Henrique da Cruz,São Paulo,SP,Sudeste
+173,C00173,Emanuelly Rocha,Juiz de Fora,MG,Sudeste
+174,C00174,Bernardo Mendes,Nova Iguaçu,RJ,Sudeste
+175,C00175,Diego Silva,Santana,AP,Norte
+176,C00176,Sr. Caio Dias,Mossoró,RN,Nordeste
+177,C00177,Larissa Alves,Sobral,CE,Nordeste
+178,C00178,Cecília Moura,Gravataí,RS,Sul
+179,C00179,Yago Freitas,Porto Alegre,RS,Sul
+180,C00180,Rodrigo Duarte,Caicó,RN,Nordeste
+181,C00181,Rafaela Jesus,Tocantinópolis,TO,Norte
+182,C00182,Ana Vitória Fernandes,Porto Alegre,RS,Sul
+183,C00183,Nicole Araújo,Duque de Caxias,RJ,Sudeste
+184,C00184,Alana da Conceição,Chapecó,SC,Sul
+185,C00185,Esther Moraes,Nossa Senhora,SE,Nordeste
+186,C00186,Sarah Jesus,Santo André,SP,Sudeste
+187,C00187,Pedro Lucas da Rocha,Santarém,PA,Norte
+188,C00188,João Lucas da Costa,Joinville,SC,Sul
+189,C00189,Manuela Gomes,Cascavel,PR,Sul
+190,C00190,Diogo da Mota,Castanhal,PA,Norte
+191,C00191,Clara Cardoso,Tarauacá,AC,Norte
+192,C00192,João Vitor Dias,Nossa Senhora,SE,Nordeste
+193,C00193,Lavínia das Neves,Manacapuru,AM,Norte
+194,C00194,Raul Ferreira,Betim,MG,Sudeste
+195,C00195,Stella Peixoto,Duque de Caxias,RJ,Sudeste
+196,C00196,Sr. Enzo Gabriel Vieira,São Bernardo do Campo,SP,Sudeste
+197,C00197,Carolina Costela,Belém,PA,Norte
+198,C00198,João Vitor Alves,Parintins,AM,Norte
+199,C00199,Davi Luiz Oliveira,Palmas,TO,Norte
+200,C00200,Agatha da Luz,Santana,AP,Norte
+201,C00201,Maria Luiza Novaes,Ji-Paraná,RO,Norte
+202,C00202,Maria Rodrigues,Timon,MA,Nordeste
+203,C00203,Lucca Cardoso,Ji-Paraná,RO,Norte
+204,C00204,Stella Gomes,Blumenau,SC,Sul
+205,C00205,Mariane Pinto,Uberlândia,MG,Sudeste
+206,C00206,Eduarda Silveira,Recife,PE,Nordeste
+207,C00207,Maria Sophia Costela,Tefé,AM,Norte
+208,C00208,Isaac Souza,Caxias do Sul,RS,Sul
+209,C00209,Clarice Barbosa,Ji-Paraná,RO,Norte
+210,C00210,Enzo da Rocha,Caracaraí,RR,Norte
+211,C00211,Alana Duarte,Tocantinópolis,TO,Norte
+212,C00212,Lívia da Cunha,Tefé,AM,Norte
+213,C00213,Larissa Viana,Blumenau,SC,Sul
+214,C00214,Eloah Fernandes,Vilhena,RO,Norte
+215,C00215,Kamilly da Luz,Porto Nacional,TO,Norte
+216,C00216,Lucas Gabriel da Rocha,Ponta Grossa,PR,Sul
+217,C00217,Lara da Cruz,Campinas,SP,Sudeste
+218,C00218,Sra. Mariane da Costa,Cascavel,PR,Sul
+219,C00219,Raul Alves,Santo André,SP,Sudeste
+220,C00220,Sophia da Conceição,Chapecó,SC,Sul
+221,C00221,Maria Vitória Moraes,Niterói,RJ,Sudeste
+222,C00222,Bryan Pires,Manacapuru,AM,Norte
+223,C00223,Sr. Pedro Miguel Duarte,Estância,SE,Nordeste
+224,C00224,Srta. Bianca Barbosa,Porto Alegre,RS,Sul
+225,C00225,Davi da Conceição,Caxias do Sul,RS,Sul
+226,C00226,Thiago Araújo,Maringá,PR,Sul
+227,C00227,Rafael da Luz,São Gonçalo,RJ,Sudeste
+228,C00228,Isadora da Rosa,Linhares,ES,Sudeste
+229,C00229,Dr. Heitor Ramos,Caucaia,CE,Nordeste
+230,C00230,Bruna Almeida,Gravataí,RS,Sul
+231,C00231,Renan Silveira,Propriá,SE,Nordeste
+232,C00232,Heloísa Azevedo,Curitiba,PR,Sul
+233,C00233,Srta. Julia Mendes,Betim,MG,Sudeste
+234,C00234,Alícia Vieira,Petrolina,PE,Nordeste
+235,C00235,Bryan da Mota,Ribeirão Preto,SP,Sudeste
+236,C00236,Miguel Nascimento,Ribeirão Preto,SP,Sudeste
+237,C00237,Dr. Lucca Almeida,Duque de Caxias,RJ,Sudeste
+238,C00238,Srta. Evelyn Rezende,São Gonçalo,RJ,Sudeste
+239,C00239,Matheus Freitas,Caucaia,CE,Nordeste
+240,C00240,Isaac Pereira,Linhares,ES,Sudeste
+241,C00241,Dra. Valentina Gonçalves,Campina Grande,PB,Nordeste
+242,C00242,Luna Moraes,Gravataí,RS,Sul
+243,C00243,Cauã Fogaça,Vila Velha,ES,Sudeste
+244,C00244,Letícia Fogaça,Juiz de Fora,MG,Sudeste
+245,C00245,João Pedro da Rosa,Recife,PE,Nordeste
+246,C00246,Dr. Lucca Nunes,Recife,PE,Nordeste
+247,C00247,Ana Carolina Caldeira,Vilhena,RO,Norte
+248,C00248,Luiz Gustavo Mendes,Aracaju,SE,Nordeste
+249,C00249,Luiz Fernando Moura,Vilhena,RO,Norte
+250,C00250,João Lucas Viana,Santa Maria,RS,Sul
+251,C00251,Bernardo Moura,Uberlândia,MG,Sudeste
+252,C00252,Miguel Fernandes,São Paulo,SP,Sudeste
+253,C00253,Manuela Sales,Marabá,PA,Norte
+254,C00254,Alice Pinto,Porto Velho,RO,Norte
+255,C00255,Rebeca da Mata,Bacabal,MA,Nordeste
+256,C00256,Pedro Henrique Moura,Vila Velha,ES,Sudeste
+257,C00257,Luiz Henrique Ramos,Cacoal,RO,Norte
+258,C00258,Esther Lima,Caicó,RN,Nordeste
+259,C00259,Ana Sophia Rodrigues,Gravataí,RS,Sul
+260,C00260,Paulo Vieira,Gravataí,RS,Sul
+261,C00261,Alexandre da Rocha,Porto Velho,RO,Norte
+262,C00262,Marcelo Duarte,Patos,PB,Nordeste
+263,C00263,Davi Silveira,Santana,AP,Norte
+264,C00264,Lorena Jesus,Caucaia,CE,Nordeste
+265,C00265,Brenda Cavalcanti,Marabá,PA,Norte
+266,C00266,Clarice da Luz,Porto Alegre,RS,Sul
+267,C00267,Vitória Nunes,Jaboatão dos Guararapes,PE,Nordeste
+268,C00268,Dr. Pedro Porto,Londrina,PR,Sul
+269,C00269,Dr. Thales Moraes,Betim,MG,Sudeste
+270,C00270,Juan Mendes,Ji-Paraná,RO,Norte
+271,C00271,Eloah da Paz,Olinda,PE,Nordeste
+272,C00272,Dra. Emanuella Sales,Cruzeiro do Sul,AC,Norte
+273,C00273,Maria Julia Nascimento,Duque de Caxias,RJ,Sudeste
+274,C00274,Ana Carolina Castro,Santarém,PA,Norte
+275,C00275,Sr. Gustavo Henrique Peixoto,Gravataí,RS,Sul
+276,C00276,Luana Farias,Porto Alegre,RS,Sul
+277,C00277,Isis Pinto,Santarém,PA,Norte
+278,C00278,Joana Nogueira,Vitória,ES,Sudeste
+279,C00279,Rafaela Silva,Vitória da Conquista,BA,Nordeste
+280,C00280,Eduardo Araújo,Araguaína,TO,Norte
+281,C00281,Julia Monteiro,Itajaí,SC,Sul
+282,C00282,Marcela Porto,Betim,MG,Sudeste
+283,C00283,João Vitor Teixeira,Ponta Grossa,PR,Sul
+284,C00284,Srta. Esther da Mota,São Bernardo do Campo,SP,Sudeste
+285,C00285,Sabrina Oliveira,Vila Velha,ES,Sudeste
+286,C00286,Lucca Sales,Santo André,SP,Sudeste
+287,C00287,Ana Clara das Neves,Ribeirão Preto,SP,Sudeste
+288,C00288,Thomas Rodrigues,Belém,PA,Norte
+289,C00289,Rodrigo Souza,São Gonçalo,RJ,Sudeste
+290,C00290,Nicolas Barbosa,Porto Nacional,TO,Norte
+291,C00291,Lucca Teixeira,Cantá,RR,Norte
+292,C00292,Kamilly Pires,Porto Alegre,RS,Sul
+293,C00293,Lucca Araújo,Bom Jesus,PI,Nordeste
+294,C00294,Bianca Rodrigues,Itajaí,SC,Sul
+295,C00295,Leonardo Gonçalves,Laranjal do Jari,AP,Norte
+296,C00296,Mariane Moreira,Caruaru,PE,Nordeste
+297,C00297,Enzo Monteiro,Curitiba,PR,Sul
+298,C00298,Sr. Bernardo Dias,Caxias,MA,Nordeste
+299,C00299,Sr. Joaquim da Costa,Cacoal,RO,Norte
+300,C00300,Otávio Costa,Macapá,AP,Norte
+301,C00301,Vitória Novaes,Londrina,PR,Sul
+302,C00302,Maria Julia Pinto,Blumenau,SC,Sul
+303,C00303,Cauê Barbosa,Santo André,SP,Sudeste
+304,C00304,Ana Beatriz Freitas,Ponta Grossa,PR,Sul
+305,C00305,Beatriz Carvalho,Mossoró,RN,Nordeste
+306,C00306,Juliana Cunha,Juazeiro do Norte,CE,Nordeste
+307,C00307,Pietro Cunha,Gravataí,RS,Sul
+308,C00308,Fernanda Monteiro,Serra,ES,Sudeste
+309,C00309,Pedro Moreira,Campinas,SP,Sudeste
+310,C00310,Sabrina Pires,Itajaí,SC,Sul
+311,C00311,Joana Teixeira,Nova Iguaçu,RJ,Sudeste
+312,C00312,Raul Vieira,Pelotas,RS,Sul
+313,C00313,Enrico Novaes,Bayeux,PB,Nordeste
+314,C00314,Luiz Miguel Nogueira,Ponta Grossa,PR,Sul
+315,C00315,Srta. Nicole Cardoso,Manacapuru,AM,Norte
+316,C00316,Benício Aragão,Caxias do Sul,RS,Sul
+317,C00317,Srta. Alana Cavalcanti,Londrina,PR,Sul
+318,C00318,Dra. Lorena Monteiro,Cachoeiro de Itapemirim,ES,Sudeste
+319,C00319,João Gabriel Pereira,Cacoal,RO,Norte
+320,C00320,Antônio Rocha,Rorainópolis,RR,Norte
+321,C00321,Milena Araújo,Joinville,SC,Sul
+322,C00322,Mariane Barros,Santarém,PA,Norte
+323,C00323,Sr. Arthur Vieira,São Paulo,SP,Sudeste
+324,C00324,Nina Correia,São Bernardo do Campo,SP,Sudeste
+325,C00325,Marcelo Barbosa,Florianópolis,SC,Sul
+326,C00326,Marcelo Farias,Laranjal do Jari,AP,Norte
+327,C00327,Joana Rodrigues,Sobral,CE,Nordeste
+328,C00328,Sabrina Ribeiro,Palmas,TO,Norte
+329,C00329,Murilo Ramos,Maringá,PR,Sul
+330,C00330,Sr. Antônio Ramos,Sena Madureira,AC,Norte
+331,C00331,Sr. Nathan Peixoto,Itacoatiara,AM,Norte
+332,C00332,Calebe Gonçalves,Campinas,SP,Sudeste
+333,C00333,Miguel Rezende,Currais Novos,RN,Nordeste
+334,C00334,João Souza,Imperatriz,MA,Nordeste
+335,C00335,Luna Fernandes,Cacoal,RO,Norte
+336,C00336,Calebe Fernandes,Estância,SE,Nordeste
+337,C00337,Leandro Farias,Santa Rita,PB,Nordeste
+338,C00338,Ana Lívia Souza,São Bernardo do Campo,SP,Sudeste
+339,C00339,Felipe Azevedo,Porto Nacional,TO,Norte
+340,C00340,Isaac Lopes,Uberlândia,MG,Sudeste
+341,C00341,Srta. Laura Caldeira,Gravataí,RS,Sul
+342,C00342,Kaique Gomes,São Bernardo do Campo,SP,Sudeste
+343,C00343,Valentina Souza,Caxias do Sul,RS,Sul
+344,C00344,Fernanda Sales,Porto Alegre,RS,Sul
+345,C00345,Olivia Lima,Currais Novos,RN,Nordeste
+346,C00346,Davi Luiz Barros,São Gonçalo,RJ,Sudeste
+347,C00347,Dr. Emanuel Fogaça,Porto Nacional,TO,Norte
+348,C00348,Helena Pires,Linhares,ES,Sudeste
+349,C00349,Otávio Nunes,Cacoal,RO,Norte
+350,C00350,João Pedro Farias,Juiz de Fora,MG,Sudeste
+351,C00351,Levi Fernandes,Bayeux,PB,Nordeste
+352,C00352,Rodrigo da Paz,Uberlândia,MG,Sudeste
+353,C00353,Ana Julia Novaes,Manacapuru,AM,Norte
+354,C00354,Gabrielly Melo,Vilhena,RO,Norte
+355,C00355,Bryan Nascimento,Juazeiro do Norte,CE,Nordeste
+356,C00356,Pedro Ferreira,Campinas,SP,Sudeste
+357,C00357,Erick Dias,Bacabal,MA,Nordeste
+358,C00358,Raul Costa,Niterói,RJ,Sudeste
+359,C00359,Luiza Nunes,São Bernardo do Campo,SP,Sudeste
+360,C00360,Anthony Aragão,Cachoeiro de Itapemirim,ES,Sudeste
+361,C00361,Letícia Porto,Santana,AP,Norte
+362,C00362,Vicente Novaes,Blumenau,SC,Sul
+363,C00363,Maria Sophia Caldeira,Porto Nacional,TO,Norte
+364,C00364,Vitória Monteiro,Tefé,AM,Norte
+365,C00365,Maria Sophia Almeida,Santarém,PA,Norte
+366,C00366,Luiz Miguel Jesus,São Bernardo do Campo,SP,Sudeste
+367,C00367,Rodrigo Martins,Rorainópolis,RR,Norte
+368,C00368,Antônio Moraes,Cascavel,PR,Sul
+369,C00369,Nicole Dias,Uberlândia,MG,Sudeste
+370,C00370,João Miguel Rezende,Blumenau,SC,Sul
+371,C00371,Antônio Peixoto,Londrina,PR,Sul
+372,C00372,Dra. Nina Peixoto,Sena Madureira,AC,Norte
+373,C00373,Stephany Moreira,Curitiba,PR,Sul
+374,C00374,Otávio Duarte,Timon,MA,Nordeste
+375,C00375,Lucca Campos,Gravataí,RS,Sul
+376,C00376,Vinicius Nogueira,Joinville,SC,Sul
+377,C00377,Stephany Cardoso,Florianópolis,SC,Sul
+378,C00378,Francisco Costa,Itajaí,SC,Sul
+379,C00379,Sra. Maitê Nascimento,Serra,ES,Sudeste
+380,C00380,Juliana Silveira,Propriá,SE,Nordeste
+381,C00381,Sr. João Felipe Pinto,Teresina,PI,Nordeste
+382,C00382,Eloah Mendes,Rio de Janeiro,RJ,Sudeste
+383,C00383,Sabrina Viana,Caxias do Sul,RS,Sul
+384,C00384,Levi da Rosa,Porto Nacional,TO,Norte
+385,C00385,Sofia Silva,Rorainópolis,RR,Norte
+386,C00386,João Lucas Gonçalves,Sena Madureira,AC,Norte
+387,C00387,Dr. Diogo Gonçalves,Bacabal,MA,Nordeste
+388,C00388,João Gabriel Almeida,Crato,CE,Nordeste
+389,C00389,Sr. Davi Rezende,Campina Grande,PB,Nordeste
+390,C00390,Benjamin Nunes,Uberlândia,MG,Sudeste
+391,C00391,Mariana da Rosa,Contagem,MG,Sudeste
+392,C00392,Antônio Fernandes,Uberlândia,MG,Sudeste
+393,C00393,Marina da Cruz,Macapá,AP,Norte
+394,C00394,Ana Sophia Souza,Juiz de Fora,MG,Sudeste
+395,C00395,Pietra Rezende,Laranjal do Jari,AP,Norte
+396,C00396,Bárbara Correia,Mazagão,AP,Norte
+397,C00397,Dr. Carlos Eduardo Monteiro,Boa Vista,RR,Norte
+398,C00398,Sr. Emanuel Rocha,Pelotas,RS,Sul
+399,C00399,Ana Julia Ramos,Castanhal,PA,Norte
+400,C00400,Evelyn Castro,Juazeiro,BA,Nordeste
+401,C00401,Sr. Leonardo Barros,São Paulo,SP,Sudeste
+402,C00402,Raul Almeida,Marabá,PA,Norte
+403,C00403,Ana Julia Nogueira,Florianópolis,SC,Sul
+404,C00404,Nicolas da Costa,Itajaí,SC,Sul
+405,C00405,Guilherme Viana,Sena Madureira,AC,Norte
+406,C00406,Maria Cecília Sales,Caucaia,CE,Nordeste
+407,C00407,Luiz Fernando Freitas,Duque de Caxias,RJ,Sudeste
+408,C00408,Rafaela Peixoto,Ribeirão Preto,SP,Sudeste
+409,C00409,Calebe da Mata,Curitiba,PR,Sul
+410,C00410,João Pedro Moura,Caicó,RN,Nordeste
+411,C00411,Marcela Viana,Parnamirim,RN,Nordeste
+412,C00412,Heloísa Araújo,Santa Maria,RS,Sul
+413,C00413,Antônio Melo,Manacapuru,AM,Norte
+414,C00414,Thales Nascimento,São Gonçalo,RJ,Sudeste
+415,C00415,Isaac Fernandes,Aracaju,SE,Nordeste
+416,C00416,Bryan Fogaça,Palmas,TO,Norte
+417,C00417,Brenda Pinto,Belém,PA,Norte
+418,C00418,Ana Sophia Costela,Uberlândia,MG,Sudeste
+419,C00419,Emanuella Peixoto,Cachoeiro de Itapemirim,ES,Sudeste
+420,C00420,Isabelly Campos,São Paulo,SP,Sudeste
+421,C00421,Ana Vitória Campos,São Gonçalo,RJ,Sudeste
+422,C00422,Leandro da Costa,Rolim de Moura,RO,Norte
+423,C00423,Sra. Camila Monteiro,Timon,MA,Nordeste
+424,C00424,Stella Pires,Juazeiro do Norte,CE,Nordeste
+425,C00425,Nicolas Lima,Serra,ES,Sudeste
+426,C00426,Davi Costela,Currais Novos,RN,Nordeste
+427,C00427,Ana Lívia Gonçalves,Vilhena,RO,Norte
+428,C00428,Lucas Gabriel Jesus,Laranjal do Jari,AP,Norte
+429,C00429,Sr. Davi Luiz Viana,São Gonçalo,RJ,Sudeste
+430,C00430,Kamilly Porto,Santana,AP,Norte
+431,C00431,Sr. Carlos Eduardo Sales,Londrina,PR,Sul
+432,C00432,Sr. Heitor da Paz,Brasiléia,AC,Norte
+433,C00433,Felipe Gomes,Caicó,RN,Nordeste
+434,C00434,Sra. Camila Fogaça,Caxias do Sul,RS,Sul
+435,C00435,Dr. Noah Duarte,São Gonçalo,RJ,Sudeste
+436,C00436,Alexia Ramos,Cruzeiro do Sul,AC,Norte
+437,C00437,Srta. Agatha da Cruz,Salvador,BA,Nordeste
+438,C00438,Sophie Souza,Santo André,SP,Sudeste
+439,C00439,Murilo Rezende,Itajaí,SC,Sul
+440,C00440,Maria Fernanda Gomes,Caxias do Sul,RS,Sul
+441,C00441,Dr. Bruno da Paz,Manacapuru,AM,Norte
+442,C00442,Daniel da Luz,Tefé,AM,Norte
+443,C00443,Dr. João Pedro Silveira,Blumenau,SC,Sul
+444,C00444,Yasmin Lopes,Mazagão,AP,Norte
+445,C00445,Miguel Lima,Cruzeiro do Sul,AC,Norte
+446,C00446,Sra. Mariana da Mota,Contagem,MG,Sudeste
+447,C00447,Sarah Nunes,São Gonçalo,RJ,Sudeste
+448,C00448,Eloah Mendes,Tarauacá,AC,Norte
+449,C00449,Kamilly Lopes,Londrina,PR,Sul
+450,C00450,Dr. Pedro Lucas Rezende,Joinville,SC,Sul
+451,C00451,Catarina Duarte,Cachoeiro de Itapemirim,ES,Sudeste
+452,C00452,Raul Lopes,Belém,PA,Norte
+453,C00453,Nicole Vieira,Maringá,PR,Sul
+454,C00454,Benício Vieira,Itajaí,SC,Sul
+455,C00455,Natália Souza,Porto Alegre,RS,Sul
+456,C00456,Dra. Maria Sophia Ramos,Maringá,PR,Sul
+457,C00457,Paulo Rezende,Lagarto,SE,Nordeste
+458,C00458,Maria Clara Viana,Belém,PA,Norte
+459,C00459,Olivia Viana,Currais Novos,RN,Nordeste
+460,C00460,Calebe da Rosa,Florianópolis,SC,Sul
+461,C00461,Srta. Heloísa Moraes,Pelotas,RS,Sul
+462,C00462,Felipe Mendes,Parnaíba,PI,Nordeste
+463,C00463,Sra. Evelyn Cardoso,Porto Velho,RO,Norte
+464,C00464,Dr. Pietro Silva,Pico,PI,Nordeste
+465,C00465,Maria Clara da Mota,João Pessoa,PB,Nordeste
+466,C00466,Bernardo Pereira,Olinda,PE,Nordeste
+467,C00467,Dr. Luiz Fernando Moura,São Luís,MA,Nordeste
+468,C00468,Sra. Isis Silva,Propriá,SE,Nordeste
+469,C00469,Gabrielly Souza,Chapecó,SC,Sul
+470,C00470,Fernando Rezende,Niterói,RJ,Sudeste
+471,C00471,André Souza,Ponta Grossa,PR,Sul
+472,C00472,Caio Novaes,Blumenau,SC,Sul
+473,C00473,Joana Martins,Serra,ES,Sudeste
+474,C00474,Sr. Gustavo Henrique Cardoso,Manacapuru,AM,Norte
+475,C00475,Breno Fernandes,Curitiba,PR,Sul
+476,C00476,Rebeca Lima,Rio de Janeiro,RJ,Sudeste
+477,C00477,Gabrielly Araújo,Rolim de Moura,RO,Norte
+478,C00478,Joaquim Cavalcanti,Gravataí,RS,Sul
+479,C00479,Evelyn Rocha,Castanhal,PA,Norte
+480,C00480,Henrique Viana,Bom Jesus,PI,Nordeste
+481,C00481,Brenda das Neves,Joinville,SC,Sul
+482,C00482,Dra. Esther Silva,Belém,PA,Norte
+483,C00483,Isaac Correia,Linhares,ES,Sudeste
+484,C00484,Bárbara Martins,Feira de Santana,BA,Nordeste
+485,C00485,Davi Lucas Almeida,Gravataí,RS,Sul
+486,C00486,Catarina Oliveira,Pico,PI,Nordeste
+487,C00487,Carolina Nogueira,Santo André,SP,Sudeste
+488,C00488,Ana Carolina Santos,Serra,ES,Sudeste
+489,C00489,Sr. Matheus Costa,Manaus,AM,Norte
+490,C00490,Camila Sales,Pelotas,RS,Sul
+491,C00491,Daniel Martins,Teresina,PI,Nordeste
+492,C00492,Milena da Cruz,Pico,PI,Nordeste
+493,C00493,Stephany Ferreira,Cascavel,PR,Sul
+494,C00494,Eloah da Paz,Tefé,AM,Norte
+495,C00495,Catarina Nogueira,Blumenau,SC,Sul
+496,C00496,Elisa Martins,Sobral,CE,Nordeste
+497,C00497,Lara Farias,Serra,ES,Sudeste
+498,C00498,Dr. Luiz Henrique Pereira,Contagem,MG,Sudeste
+499,C00499,Davi Cunha,Campinas,SP,Sudeste
+500,C00500,Sra. Julia Fernandes,Imperatriz,MA,Nordeste
+501,C00501,Brenda Nunes,Manaus,AM,Norte
+502,C00502,André da Cunha,Caracaraí,RR,Norte
+503,C00503,Isabelly Teixeira,Mossoró,RN,Nordeste
+504,C00504,Camila da Cunha,Bacabal,MA,Nordeste
+505,C00505,Gabriela Ribeiro,Aracaju,SE,Nordeste
+506,C00506,Thales Castro,Caxias do Sul,RS,Sul
+507,C00507,Srta. Maria Luiza Rocha,Blumenau,SC,Sul
+508,C00508,Beatriz Silva,Cascavel,PR,Sul
+509,C00509,Raquel Caldeira,Caruaru,PE,Nordeste
+510,C00510,Beatriz Costa,Bom Jesus,PI,Nordeste
+511,C00511,Francisco Barbosa,Pelotas,RS,Sul
+512,C00512,Alexandre Novaes,Chapecó,SC,Sul
+513,C00513,Alice Lopes,Londrina,PR,Sul
+514,C00514,Pedro Miguel da Cruz,Recife,PE,Nordeste
+515,C00515,Dr. Miguel Cunha,Gravataí,RS,Sul
+516,C00516,Vitor Gabriel Alves,Cantá,RR,Norte
+517,C00517,Emanuel Aragão,Manaus,AM,Norte
+518,C00518,Maria Fernanda da Cruz,Caruaru,PE,Nordeste
+519,C00519,Alice Costela,Natal,RN,Nordeste
+520,C00520,Bruna Moraes,Lagarto,SE,Nordeste
+521,C00521,Sophia Oliveira,Belém,PA,Norte
+522,C00522,Clarice Rezende,Blumenau,SC,Sul
+523,C00523,Stella Martins,Natal,RN,Nordeste
+524,C00524,Srta. Emanuella Caldeira,Uberlândia,MG,Sudeste
+525,C00525,Valentina da Paz,Serra,ES,Sudeste
+526,C00526,Ana Laura Teixeira,São Luís,MA,Nordeste
+527,C00527,Marcos Vinicius Rodrigues,Campinas,SP,Sudeste
+528,C00528,Laís Correia,Gravataí,RS,Sul
+529,C00529,Juliana Campos,Rio Branco,AC,Norte
+530,C00530,Nicolas Costela,Contagem,MG,Sudeste
+531,C00531,Leandro Nunes,Maringá,PR,Sul
+532,C00532,Sr. Eduardo Moreira,Recife,PE,Nordeste
+533,C00533,Joana Moura,Mazagão,AP,Norte
+534,C00534,Dr. Ian Santos,Curitiba,PR,Sul
+535,C00535,Dra. Ana Luiza Fogaça,Chapecó,SC,Sul
+536,C00536,Gustavo Henrique Cunha,Cantá,RR,Norte
+537,C00537,Vitória Cardoso,Caxias,MA,Nordeste
+538,C00538,Gabrielly Viana,Cascavel,PR,Sul
+539,C00539,Rafaela Carvalho,Betim,MG,Sudeste
+540,C00540,João Vitor Campos,Crato,CE,Nordeste
+541,C00541,Maria Luiza das Neves,Linhares,ES,Sudeste
+542,C00542,Sra. Camila Peixoto,Marabá,PA,Norte
+543,C00543,Evelyn da Paz,Mucajaí,RR,Norte
+544,C00544,Dra. Juliana da Rosa,Rio de Janeiro,RJ,Sudeste
+545,C00545,Gabrielly da Conceição,Serra,ES,Sudeste
+546,C00546,Nathan da Rocha,Crato,CE,Nordeste
+547,C00547,Marina Carvalho,Uberlândia,MG,Sudeste
+548,C00548,Davi Moreira,Niterói,RJ,Sudeste
+549,C00549,Murilo Almeida,Itajaí,SC,Sul
+550,C00550,Sr. Antônio da Paz,São Luís,MA,Nordeste
+551,C00551,Daniel Cardoso,Maringá,PR,Sul
+552,C00552,Bernardo Moura,Feira de Santana,BA,Nordeste
+553,C00553,Nicole Rocha,Itacoatiara,AM,Norte
+554,C00554,Dr. João Gabriel Costa,Itajaí,SC,Sul
+555,C00555,Augusto Cardoso,Vila Velha,ES,Sudeste
+556,C00556,Srta. Agatha Nunes,Rio de Janeiro,RJ,Sudeste
+557,C00557,Sra. Rebeca Azevedo,Rio de Janeiro,RJ,Sudeste
+558,C00558,Helena Azevedo,Santo André,SP,Sudeste
+559,C00559,Luigi Almeida,Pelotas,RS,Sul
+560,C00560,Dra. Maysa Fogaça,Propriá,SE,Nordeste
+561,C00561,Paulo Silveira,Rio de Janeiro,RJ,Sudeste
+562,C00562,Bianca Pinto,Ponta Grossa,PR,Sul
+563,C00563,Daniel Costa,Jaboatão dos Guararapes,PE,Nordeste
+564,C00564,Sr. João Miguel Costela,Sena Madureira,AC,Norte
+565,C00565,Bárbara Moreira,Duque de Caxias,RJ,Sudeste
+566,C00566,Ana Laura Viana,Ponta Grossa,PR,Sul
+567,C00567,Lara Gomes,São Paulo,SP,Sudeste
+568,C00568,Ana Vitória Barros,São Bernardo do Campo,SP,Sudeste
+569,C00569,Laís das Neves,Tarauacá,AC,Norte
+570,C00570,Srta. Gabriela Moura,Uberlândia,MG,Sudeste
+571,C00571,Olivia Alves,Aracaju,SE,Nordeste
+572,C00572,Cauã Viana,Caucaia,CE,Nordeste
+573,C00573,Dr. Raul Cunha,Duque de Caxias,RJ,Sudeste
+574,C00574,Sophia Nunes,Ji-Paraná,RO,Norte
+575,C00575,Kamilly Pereira,Pelotas,RS,Sul
+576,C00576,Stella da Cunha,Cascavel,PR,Sul
+577,C00577,Sra. Bianca Oliveira,Floriano,PI,Nordeste
+578,C00578,Agatha Pereira,Niterói,RJ,Sudeste
+579,C00579,Carlos Eduardo Freitas,Cruzeiro do Sul,AC,Norte
+580,C00580,João Gabriel Caldeira,Itajaí,SC,Sul
+581,C00581,Sr. Enzo Oliveira,Itacoatiara,AM,Norte
+582,C00582,Natália Silva,Cascavel,PR,Sul
+583,C00583,Rodrigo Mendes,Campinas,SP,Sudeste
+584,C00584,Arthur Viana,Macapá,AP,Norte
+585,C00585,Luiz Fernando Freitas,Ponta Grossa,PR,Sul
+586,C00586,João Miguel Castro,Gurupi,TO,Norte
+587,C00587,Pedro Nogueira,Linhares,ES,Sudeste
+588,C00588,Sophia da Rosa,Niterói,RJ,Sudeste
+589,C00589,Dra. Lavínia Duarte,Bom Jesus,PI,Nordeste
+590,C00590,Murilo da Cunha,Caucaia,CE,Nordeste
+591,C00591,Enzo Gabriel das Neves,Santa Rita,PB,Nordeste
+592,C00592,Ana Castro,Tefé,AM,Norte
+593,C00593,Sra. Isabelly Oliveira,Ribeirão Preto,SP,Sudeste
+594,C00594,Maria Sophia Jesus,Fortaleza,CE,Nordeste
+595,C00595,Srta. Ana Júlia Pereira,Santo André,SP,Sudeste
+596,C00596,Maysa Aragão,Gravataí,RS,Sul
+597,C00597,Augusto Gomes,Laranjal do Jari,AP,Norte
+598,C00598,Helena Moraes,Marabá,PA,Norte
+599,C00599,Marcela Barros,Contagem,MG,Sudeste
+600,C00600,Alice Dias,Currais Novos,RN,Nordeste
+601,C00601,Marina Cardoso,Palmas,TO,Norte
+602,C00602,Antônio Porto,Olinda,PE,Nordeste
+603,C00603,Caio Campos,Parnaíba,PI,Nordeste
+604,C00604,Emanuelly Pires,Rio de Janeiro,RJ,Sudeste
+605,C00605,Luiz Fernando da Costa,Juiz de Fora,MG,Sudeste
+606,C00606,Carlos Eduardo Moraes,Petrolina,PE,Nordeste
+607,C00607,Lucas Gabriel Jesus,Ji-Paraná,RO,Norte
+608,C00608,Letícia Novaes,Bacabal,MA,Nordeste
+609,C00609,Lorenzo da Cunha,Vitória,ES,Sudeste
+610,C00610,Alana Campos,Brasiléia,AC,Norte
+611,C00611,Ana Vitória Silva,Betim,MG,Sudeste
+612,C00612,Alexandre Ramos,Castanhal,PA,Norte
+613,C00613,Maria Julia da Mata,Duque de Caxias,RJ,Sudeste
+614,C00614,Davi Ribeiro,Parnamirim,RN,Nordeste
+615,C00615,Kamilly Correia,Curitiba,PR,Sul
+616,C00616,Dr. Antônio da Rocha,Propriá,SE,Nordeste
+617,C00617,Kaique da Cruz,Caxias do Sul,RS,Sul
+618,C00618,Clara Cardoso,Juiz de Fora,MG,Sudeste
+619,C00619,Pietra Gonçalves,Duque de Caxias,RJ,Sudeste
+620,C00620,Daniel Almeida,Bom Jesus,PI,Nordeste
+621,C00621,Ana Júlia Sales,Parintins,AM,Norte
+622,C00622,Luiz Gustavo Gonçalves,Maringá,PR,Sul
+623,C00623,Srta. Emilly Moreira,Londrina,PR,Sul
+624,C00624,João Lucas Pereira,Sena Madureira,AC,Norte
+625,C00625,Laura Moura,Itajaí,SC,Sul
+626,C00626,Davi Lucca Rocha,Caxias,MA,Nordeste
+627,C00627,Dr. Arthur da Luz,Contagem,MG,Sudeste
+628,C00628,Isadora Rocha,Itajaí,SC,Sul
+629,C00629,Yuri Silveira,Santa Maria,RS,Sul
+630,C00630,Thomas da Rosa,Tarauacá,AC,Norte
+631,C00631,Pedro Henrique da Cunha,Londrina,PR,Sul
+632,C00632,Samuel Dias,Vitória,ES,Sudeste
+633,C00633,Emanuelly Cunha,Ribeirão Preto,SP,Sudeste
+634,C00634,Dr. Leandro Correia,Gravataí,RS,Sul
+635,C00635,Levi Gonçalves,Palmas,TO,Norte
+636,C00636,Sra. Stephany Lopes,Maringá,PR,Sul
+637,C00637,Pedro Miguel Rodrigues,São Bernardo do Campo,SP,Sudeste
+638,C00638,Bárbara Viana,Belém,PA,Norte
+639,C00639,João Lucas Costela,Bom Jesus,PI,Nordeste
+640,C00640,Isadora Novaes,Cachoeiro de Itapemirim,ES,Sudeste
+641,C00641,Juan da Luz,Blumenau,SC,Sul
+642,C00642,Juliana Rocha,Macapá,AP,Norte
+643,C00643,Maitê da Rosa,Pelotas,RS,Sul
+644,C00644,Eduardo Pires,Contagem,MG,Sudeste
+645,C00645,Ana Jesus,Florianópolis,SC,Sul
+646,C00646,Srta. Clarice Moura,Cruzeiro do Sul,AC,Norte
+647,C00647,Paulo Correia,Ribeirão Preto,SP,Sudeste
+648,C00648,Sr. Benício Nascimento,Cascavel,PR,Sul
+649,C00649,João Guilherme Rocha,Bom Jesus,PI,Nordeste
+650,C00650,Sofia da Mata,Betim,MG,Sudeste
+651,C00651,Amanda Carvalho,Nova Iguaçu,RJ,Sudeste
+652,C00652,Ana Luiza Dias,Chapecó,SC,Sul
+653,C00653,Maria Vitória Fernandes,São Paulo,SP,Sudeste
+654,C00654,Dra. Julia Castro,Rio de Janeiro,RJ,Sudeste
+655,C00655,Leandro Cavalcanti,Blumenau,SC,Sul
+656,C00656,Levi Rodrigues,Cacoal,RO,Norte
+657,C00657,Pedro Nascimento,Uberlândia,MG,Sudeste
+658,C00658,Nicole Araújo,Cascavel,PR,Sul
+659,C00659,Julia Nunes,Londrina,PR,Sul
+660,C00660,Marcela Martins,Porto Velho,RO,Norte
+661,C00661,Mariana da Rosa,Camaçari,BA,Nordeste
+662,C00662,Miguel Cardoso,Campinas,SP,Sudeste
+663,C00663,Enrico Dias,Joinville,SC,Sul
+664,C00664,Heloísa da Costa,Chapecó,SC,Sul
+665,C00665,Luigi Rezende,Florianópolis,SC,Sul
+666,C00666,Ana Vitória Souza,Bayeux,PB,Nordeste
+667,C00667,Marcelo Cardoso,Ribeirão Preto,SP,Sudeste
+668,C00668,Isabelly das Neves,Caxias do Sul,RS,Sul
+669,C00669,Benjamin Silva,Blumenau,SC,Sul
+670,C00670,Sr. Daniel Pinto,Nova Iguaçu,RJ,Sudeste
+671,C00671,Antônio Azevedo,Londrina,PR,Sul
+672,C00672,Srta. Maysa Cardoso,Niterói,RJ,Sudeste
+673,C00673,Ana Vitória Barbosa,Niterói,RJ,Sudeste
+674,C00674,Dr. Thiago da Mota,Santa Maria,RS,Sul
+675,C00675,Mariane Monteiro,São Gonçalo,RJ,Sudeste
+676,C00676,Júlia da Rocha,Rolim de Moura,RO,Norte
+677,C00677,Dr. Theo Dias,Pelotas,RS,Sul
+678,C00678,Giovanna Melo,Recife,PE,Nordeste
+679,C00679,Davi Lucas Moura,Serra,ES,Sudeste
+680,C00680,João Lucas da Mata,Blumenau,SC,Sul
+681,C00681,Cecília Barros,Londrina,PR,Sul
+682,C00682,Rodrigo Carvalho,Niterói,RJ,Sudeste
+683,C00683,Alana Souza,Rolim de Moura,RO,Norte
+684,C00684,Evelyn Pinto,João Pessoa,PB,Nordeste
+685,C00685,Vinicius Gomes,João Pessoa,PB,Nordeste
+686,C00686,Júlia Dias,Santarém,PA,Norte
+687,C00687,Manuela Lopes,Londrina,PR,Sul
+688,C00688,Levi Freitas,Ji-Paraná,RO,Norte
+689,C00689,Júlia Moreira,Itajaí,SC,Sul
+690,C00690,Ana Júlia Sales,Joinville,SC,Sul
+691,C00691,André Correia,São Gonçalo,RJ,Sudeste
+692,C00692,Amanda Melo,Palmas,TO,Norte
+693,C00693,Sr. Kaique da Mota,Feira de Santana,BA,Nordeste
+694,C00694,Sr. João Miguel da Rocha,Curitiba,PR,Sul
+695,C00695,Manuela Santos,Caxias do Sul,RS,Sul
+696,C00696,Luna Oliveira,Vitória,ES,Sudeste
+697,C00697,Srta. Gabrielly Cardoso,Serra,ES,Sudeste
+698,C00698,Esther Sales,Ribeirão Preto,SP,Sudeste
+699,C00699,Pedro Lucas Cardoso,Cascavel,PR,Sul
+700,C00700,Helena da Luz,Caxias do Sul,RS,Sul
+701,C00701,Isabelly Pereira,Parintins,AM,Norte
+702,C00702,Sabrina Pereira,Blumenau,SC,Sul
+703,C00703,Lorenzo Moura,Vitória da Conquista,BA,Nordeste
+704,C00704,Leandro Moraes,Contagem,MG,Sudeste
+705,C00705,João Gabriel Vieira,Gravataí,RS,Sul
+706,C00706,Dr. Emanuel Costela,Cachoeiro de Itapemirim,ES,Sudeste
+707,C00707,Ana Luiza Silveira,Santana,AP,Norte
+708,C00708,Letícia da Cunha,Caxias do Sul,RS,Sul
+709,C00709,Enrico Dias,Manacapuru,AM,Norte
+710,C00710,Gustavo Aragão,Lagarto,SE,Nordeste
+711,C00711,Vinicius Rocha,Nova Iguaçu,RJ,Sudeste
+712,C00712,Sr. Enzo Gabriel Oliveira,Itacoatiara,AM,Norte
+713,C00713,Gustavo Souza,Salvador,BA,Nordeste
+714,C00714,Felipe da Paz,Caxias do Sul,RS,Sul
+715,C00715,Srta. Rafaela Porto,Chapecó,SC,Sul
+716,C00716,Sarah Lopes,Serra,ES,Sudeste
+717,C00717,Levi Porto,Contagem,MG,Sudeste
+718,C00718,Isis Nunes,Nossa Senhora,SE,Nordeste
+719,C00719,Kamilly Silva,Chapecó,SC,Sul
+720,C00720,Isabelly Peixoto,Ribeirão Preto,SP,Sudeste
+721,C00721,Pedro Henrique Melo,Joinville,SC,Sul
+722,C00722,João Santos,Crato,CE,Nordeste
+723,C00723,Ana Carolina Ramos,Blumenau,SC,Sul
+724,C00724,Dr. Francisco Araújo,Porto Velho,RO,Norte
+725,C00725,Diogo Silveira,Tocantinópolis,TO,Norte
+726,C00726,Luiz Henrique Campos,Imperatriz,MA,Nordeste
+727,C00727,Juan Duarte,São Paulo,SP,Sudeste
+728,C00728,Ana Vitória Silveira,Aracaju,SE,Nordeste
+729,C00729,Clara Almeida,Ponta Grossa,PR,Sul
+730,C00730,Sra. Bárbara Costela,Caicó,RN,Nordeste
+731,C00731,Lívia da Rocha,Cacoal,RO,Norte
+732,C00732,Stella Barbosa,Cachoeiro de Itapemirim,ES,Sudeste
+733,C00733,Bruna Monteiro,Vila Velha,ES,Sudeste
+734,C00734,Breno Rocha,Tarauacá,AC,Norte
+735,C00735,Sra. Maria Cecília da Luz,Linhares,ES,Sudeste
+736,C00736,Stella da Paz,Tarauacá,AC,Norte
+737,C00737,Camila Rodrigues,Manacapuru,AM,Norte
+738,C00738,Emanuel Ramos,Timon,MA,Nordeste
+739,C00739,Vicente Fogaça,Santo André,SP,Sudeste
+740,C00740,Pedro Henrique Moreira,Porto Alegre,RS,Sul
+741,C00741,Milena Almeida,Teresina,PI,Nordeste
+742,C00742,Alexandre Almeida,Currais Novos,RN,Nordeste
+743,C00743,Lorenzo Ribeiro,João Pessoa,PB,Nordeste
+744,C00744,Yasmin Santos,Manacapuru,AM,Norte
+745,C00745,Srta. Mariana Ramos,Itajaí,SC,Sul
+746,C00746,Dr. Igor Correia,Santa Rita,PB,Nordeste
+747,C00747,Sr. Daniel Rezende,Juiz de Fora,MG,Sudeste
+748,C00748,Marcos Vinicius Moreira,Fortaleza,CE,Nordeste
+749,C00749,Maria Julia Azevedo,Florianópolis,SC,Sul
+750,C00750,Emanuella Gonçalves,João Pessoa,PB,Nordeste
+751,C00751,Dra. Alexia da Mata,Porto Velho,RO,Norte
+752,C00752,Pedro Henrique da Rosa,Florianópolis,SC,Sul
+753,C00753,Gabrielly Moura,Camaçari,BA,Nordeste
+754,C00754,Lucca da Cunha,Cascavel,PR,Sul
+755,C00755,Eduarda Teixeira,Feira de Santana,BA,Nordeste
+756,C00756,João Pedro Rezende,Juiz de Fora,MG,Sudeste
+757,C00757,Luiz Fernando da Cunha,Juiz de Fora,MG,Sudeste
+758,C00758,Vitória da Conceição,Santa Rita,PB,Nordeste
+759,C00759,Bárbara Silveira,Rio de Janeiro,RJ,Sudeste
+760,C00760,Murilo Monteiro,Currais Novos,RN,Nordeste
+761,C00761,Caio Moura,Maringá,PR,Sul
+762,C00762,Isaac Almeida,Blumenau,SC,Sul
+763,C00763,Isadora da Conceição,Caxias do Sul,RS,Sul
+764,C00764,Ana Lívia Nascimento,Campinas,SP,Sudeste
+765,C00765,Isabelly Santos,Londrina,PR,Sul
+766,C00766,Sra. Manuela Araújo,Betim,MG,Sudeste
+767,C00767,Camila Santos,Cacoal,RO,Norte
+768,C00768,Larissa Pires,Chapecó,SC,Sul
+769,C00769,Natália Ramos,Mossoró,RN,Nordeste
+770,C00770,Rafaela Mendes,Juiz de Fora,MG,Sudeste
+771,C00771,Srta. Cecília Viana,Santarém,PA,Norte
+772,C00772,Ana Vitória Alves,Ji-Paraná,RO,Norte
+773,C00773,Sra. Lorena Almeida,Manacapuru,AM,Norte
+774,C00774,Sophia Caldeira,Palmas,TO,Norte
+775,C00775,Raquel Dias,Santa Rita,PB,Nordeste
+776,C00776,Dr. Pedro Lucas Fogaça,Pico,PI,Nordeste
+777,C00777,Enzo Gabriel da Luz,Santana,AP,Norte
+778,C00778,Fernando Pires,Mucajaí,RR,Norte
+779,C00779,Srta. Ana Viana,Santa Rita,PB,Nordeste
+780,C00780,Manuela Aragão,Pico,PI,Nordeste
+781,C00781,Natália Vieira,Gravataí,RS,Sul
+782,C00782,Davi Moraes,São Gonçalo,RJ,Sudeste
+783,C00783,Nina Correia,Santo André,SP,Sudeste
+784,C00784,Elisa Pires,Porto Nacional,TO,Norte
+785,C00785,Maria Ramos,Juiz de Fora,MG,Sudeste
+786,C00786,Luiz Otávio Ferreira,São Paulo,SP,Sudeste
+787,C00787,Thiago Rodrigues,São Luís,MA,Nordeste
+788,C00788,Kamilly Cardoso,São Bernardo do Campo,SP,Sudeste
+789,C00789,Antônio Duarte,Patos,PB,Nordeste
+790,C00790,Breno Rezende,Currais Novos,RN,Nordeste
+791,C00791,Alícia Cavalcanti,Estância,SE,Nordeste
+792,C00792,Maria Fernanda Teixeira,Duque de Caxias,RJ,Sudeste
+793,C00793,Davi Lucca da Cunha,Caxias do Sul,RS,Sul
+794,C00794,Isadora Farias,Contagem,MG,Sudeste
+795,C00795,Cauê Martins,Cascavel,PR,Sul
+796,C00796,Pietro Jesus,Porto Velho,RO,Norte
+797,C00797,Lucas Gabriel Melo,Palmas,TO,Norte
+798,C00798,Ian Araújo,Ananindeua,PA,Norte
+799,C00799,Sophie da Cruz,Caucaia,CE,Nordeste
+800,C00800,Rodrigo Peixoto,Ferreira Gomes,AP,Norte
+801,C00801,Davi Lucca Duarte,Porto Alegre,RS,Sul
+802,C00802,Alice Caldeira,Itajaí,SC,Sul
+803,C00803,Sr. Guilherme Freitas,Brasiléia,AC,Norte
+804,C00804,Sra. Isabella Nunes,Curitiba,PR,Sul
+805,C00805,Sr. Erick Cardoso,Rio de Janeiro,RJ,Sudeste
+806,C00806,Rebeca Cunha,Curitiba,PR,Sul
+807,C00807,Pedro Henrique Monteiro,Ji-Paraná,RO,Norte
+808,C00808,Maria Luiza Sales,Bayeux,PB,Nordeste
+809,C00809,Murilo da Mota,São Gonçalo,RJ,Sudeste
+810,C00810,Maria Sophia da Costa,Maringá,PR,Sul
+811,C00811,João Lucas Barbosa,Gravataí,RS,Sul
+812,C00812,Nicolas Vieira,Patos,PB,Nordeste
+813,C00813,Sr. Pedro Henrique Fogaça,Boa Vista,RR,Norte
+814,C00814,Bryan Cardoso,Marabá,PA,Norte
+815,C00815,Calebe Mendes,Itajaí,SC,Sul
+816,C00816,Dra. Ana Luiza Gonçalves,Boa Vista,RR,Norte
+817,C00817,Miguel Lopes,Sobral,CE,Nordeste
+818,C00818,Alice Duarte,Blumenau,SC,Sul
+819,C00819,Sabrina Silveira,Porto Velho,RO,Norte
+820,C00820,Felipe da Luz,Bayeux,PB,Nordeste
+821,C00821,Mirella Teixeira,Porto Alegre,RS,Sul
+822,C00822,Elisa Costa,Caracaraí,RR,Norte
+823,C00823,Levi Almeida,Laranjal do Jari,AP,Norte
+824,C00824,Vitor Gabriel Fernandes,Ferreira Gomes,AP,Norte
+825,C00825,Pedro Lucas Cunha,Natal,RN,Nordeste
+826,C00826,Fernando Pereira,Contagem,MG,Sudeste
+827,C00827,João Gabriel Aragão,Chapecó,SC,Sul
+828,C00828,Lara Costela,Campinas,SP,Sudeste
+829,C00829,Yago Almeida,Vilhena,RO,Norte
+830,C00830,Pedro da Costa,Tarauacá,AC,Norte
+831,C00831,Sofia Caldeira,Juazeiro do Norte,CE,Nordeste
+832,C00832,Luiz Gustavo Rocha,Porto Alegre,RS,Sul
+833,C00833,Lara Teixeira,Santo André,SP,Sudeste
+834,C00834,Maria Julia Cardoso,Bom Jesus,PI,Nordeste
+835,C00835,Dr. Davi Lucas Fernandes,Caxias do Sul,RS,Sul
+836,C00836,Vitor Pinto,Cascavel,PR,Sul
+837,C00837,Lucas Gabriel Gomes,Uberlândia,MG,Sudeste
+838,C00838,Maria Cecília Pinto,Parintins,AM,Norte
+839,C00839,Sr. João Guilherme Alves,Joinville,SC,Sul
+840,C00840,Manuela Nogueira,Pelotas,RS,Sul
+841,C00841,Srta. Gabriela Caldeira,Rio Branco,AC,Norte
+842,C00842,Vinicius Ribeiro,São Bernardo do Campo,SP,Sudeste
+843,C00843,Clarice Ribeiro,Vila Velha,ES,Sudeste
+844,C00844,Cecília da Paz,Mazagão,AP,Norte
+845,C00845,Sarah Araújo,Chapecó,SC,Sul
+846,C00846,Fernando Dias,Curitiba,PR,Sul
+847,C00847,Davi Pereira,Tefé,AM,Norte
+848,C00848,Dr. Luiz Gustavo Nogueira,Rolim de Moura,RO,Norte
+849,C00849,Dra. Heloísa da Paz,São Paulo,SP,Sudeste
+850,C00850,João Guilherme Silveira,Santo André,SP,Sudeste
+851,C00851,Ana Luiza Pereira,Cantá,RR,Norte
+852,C00852,Maria Clara da Luz,Timon,MA,Nordeste
+853,C00853,Arthur Azevedo,Caxias,MA,Nordeste
+854,C00854,Sr. Henrique Barbosa,Duque de Caxias,RJ,Sudeste
+855,C00855,Alexandre Peixoto,Caucaia,CE,Nordeste
+856,C00856,Thiago da Cunha,Santa Maria,RS,Sul
+857,C00857,Ana Vitória da Rocha,São Paulo,SP,Sudeste
+858,C00858,Vicente Jesus,Niterói,RJ,Sudeste
+859,C00859,Sr. Vitor Hugo Costa,Chapecó,SC,Sul
+860,C00860,Marcelo da Rocha,Aracaju,SE,Nordeste
+861,C00861,Nicole Araújo,Recife,PE,Nordeste
+862,C00862,Natália da Rosa,Gravataí,RS,Sul
+863,C00863,Srta. Evelyn Gomes,Santa Maria,RS,Sul
+864,C00864,Mirella Castro,Ribeirão Preto,SP,Sudeste
+865,C00865,Noah Monteiro,Jaboatão dos Guararapes,PE,Nordeste
+866,C00866,Yuri Lima,Lagarto,SE,Nordeste
+867,C00867,Cecília Freitas,Parnamirim,RN,Nordeste
+868,C00868,Pietro da Rosa,Ribeirão Preto,SP,Sudeste
+869,C00869,Davi Luiz da Conceição,Floriano,PI,Nordeste
+870,C00870,Luiz Felipe Gomes,São Bernardo do Campo,SP,Sudeste
+871,C00871,Kamilly Peixoto,Ji-Paraná,RO,Norte
+872,C00872,Carolina da Costa,Camaçari,BA,Nordeste
+873,C00873,Emanuelly Martins,Lagarto,SE,Nordeste
+874,C00874,Srta. Elisa Jesus,Porto Nacional,TO,Norte
+875,C00875,Pedro Miguel Farias,Maringá,PR,Sul
+876,C00876,Rebeca Cavalcanti,Olinda,PE,Nordeste
+877,C00877,Henrique da Rocha,Porto Alegre,RS,Sul
+878,C00878,Bernardo da Costa,Itajaí,SC,Sul
+879,C00879,Luana Nogueira,Chapecó,SC,Sul
+880,C00880,Davi da Paz,Florianópolis,SC,Sul
+881,C00881,Enrico Monteiro,Vitória,ES,Sudeste
+882,C00882,Pedro Henrique Pinto,Parnaíba,PI,Nordeste
+883,C00883,Dra. Agatha Azevedo,Cacoal,RO,Norte
+884,C00884,Kevin Campos,São Paulo,SP,Sudeste
+885,C00885,Luana da Cunha,Sena Madureira,AC,Norte
+886,C00886,Maria Sophia da Cruz,Santa Rita,PB,Nordeste
+887,C00887,Ian Peixoto,Santo André,SP,Sudeste
+888,C00888,Sarah da Costa,Teresina,PI,Nordeste
+889,C00889,Breno Freitas,Maringá,PR,Sul
+890,C00890,João Moreira,Curitiba,PR,Sul
+891,C00891,Davi Lucca Oliveira,Pico,PI,Nordeste
+892,C00892,Luana Moreira,Campinas,SP,Sudeste
+893,C00893,Luiz Miguel da Mota,Santa Maria,RS,Sul
+894,C00894,Heitor Jesus,Marabá,PA,Norte
+895,C00895,Anthony Vieira,Serra,ES,Sudeste
+896,C00896,João Felipe Barbosa,Palmas,TO,Norte
+897,C00897,Nina Jesus,Gurupi,TO,Norte
+898,C00898,Ana Lívia Cardoso,Rorainópolis,RR,Norte
+899,C00899,Augusto Araújo,Bacabal,MA,Nordeste
+900,C00900,Dra. Helena Teixeira,Bom Jesus,PI,Nordeste
+901,C00901,Sabrina Fernandes,Caxias do Sul,RS,Sul
+902,C00902,Dr. Luiz Felipe Costa,Joinville,SC,Sul
+903,C00903,Dr. João Pedro Caldeira,Caicó,RN,Nordeste
+904,C00904,Cauã da Cruz,Cantá,RR,Norte
+905,C00905,Ana Beatriz Barbosa,Estância,SE,Nordeste
+906,C00906,Davi Lucca Dias,Porto Alegre,RS,Sul
+907,C00907,Cauã Almeida,Patos,PB,Nordeste
+908,C00908,Natália da Cunha,Porto Velho,RO,Norte
+909,C00909,Daniela Cavalcanti,Pico,PI,Nordeste
+910,C00910,Dr. Emanuel Cardoso,Aracaju,SE,Nordeste
+911,C00911,Henrique Duarte,Ribeirão Preto,SP,Sudeste
+912,C00912,Juliana Pereira,Ribeirão Preto,SP,Sudeste
+913,C00913,Sophie Silveira,Florianópolis,SC,Sul
+914,C00914,Augusto Jesus,Duque de Caxias,RJ,Sudeste
+915,C00915,Srta. Marcela Porto,Petrolina,PE,Nordeste
+916,C00916,Rodrigo Moreira,Rorainópolis,RR,Norte
+917,C00917,Stella Pinto,Vila Velha,ES,Sudeste
+918,C00918,Isabelly Moraes,Vila Velha,ES,Sudeste
+919,C00919,Dra. Ana Vitória Duarte,Betim,MG,Sudeste
+920,C00920,Lorena da Paz,Joinville,SC,Sul
+921,C00921,Nina da Rocha,Caxias do Sul,RS,Sul
+922,C00922,Davi Lucas Pires,Chapecó,SC,Sul
+923,C00923,Lorenzo Correia,Timon,MA,Nordeste
+924,C00924,João Novaes,Contagem,MG,Sudeste
+925,C00925,Stephany da Rocha,Ribeirão Preto,SP,Sudeste
+926,C00926,Vicente Pinto,Gurupi,TO,Norte
+927,C00927,Dr. Pedro Miguel Souza,Ananindeua,PA,Norte
+928,C00928,Srta. Ana Luiza Araújo,Currais Novos,RN,Nordeste
+929,C00929,Breno Mendes,Santa Maria,RS,Sul
+930,C00930,Evelyn Ramos,Itajaí,SC,Sul
+931,C00931,Esther Costa,Curitiba,PR,Sul
+932,C00932,Bryan Carvalho,Araguaína,TO,Norte
+933,C00933,Juan Viana,Serra,ES,Sudeste
+934,C00934,Alana Pires,Olinda,PE,Nordeste
+935,C00935,Levi da Paz,Itajaí,SC,Sul
+936,C00936,Sra. Lívia Araújo,Porto Velho,RO,Norte
+937,C00937,Bárbara Nunes,Nova Iguaçu,RJ,Sudeste
+938,C00938,Sr. Caio Santos,Porto Nacional,TO,Norte
+939,C00939,Emanuelly Carvalho,Natal,RN,Nordeste
+940,C00940,Benício Porto,Recife,PE,Nordeste
+941,C00941,Pedro Gomes,Pelotas,RS,Sul
+942,C00942,Maria Luiza da Conceição,Belém,PA,Norte
+943,C00943,Enzo Gabriel Azevedo,Bayeux,PB,Nordeste
+944,C00944,Isis Aragão,Campinas,SP,Sudeste
+945,C00945,André Cardoso,Campina Grande,PB,Nordeste
+946,C00946,Maria Clara Sales,Vilhena,RO,Norte
+947,C00947,Sr. Davi Lucas da Paz,Juiz de Fora,MG,Sudeste
+948,C00948,Natália Moraes,Nova Iguaçu,RJ,Sudeste
+949,C00949,Fernando Costa,Vila Velha,ES,Sudeste
+950,C00950,Emanuelly Costela,Maringá,PR,Sul
+951,C00951,Bárbara Rezende,Imperatriz,MA,Nordeste
+952,C00952,Vitor Hugo da Costa,Parnaíba,PI,Nordeste
+953,C00953,Ryan Correia,Caxias do Sul,RS,Sul
+954,C00954,Mariane Porto,Santo André,SP,Sudeste
+955,C00955,Nicole da Conceição,Curitiba,PR,Sul
+956,C00956,Pedro Lucas Ribeiro,Blumenau,SC,Sul
+957,C00957,Marcela Dias,Santo André,SP,Sudeste
+958,C00958,Bryan Martins,Vitória,ES,Sudeste
+959,C00959,Lorenzo Dias,Blumenau,SC,Sul
+960,C00960,Vicente Araújo,Tocantinópolis,TO,Norte
+961,C00961,Sofia Barbosa,Ponta Grossa,PR,Sul
+962,C00962,Sr. André Castro,Lagarto,SE,Nordeste
+963,C00963,Felipe Caldeira,São Gonçalo,RJ,Sudeste
+964,C00964,João Gabriel Novaes,Lagarto,SE,Nordeste
+965,C00965,Evelyn Campos,Rio Branco,AC,Norte
+966,C00966,Laura Nunes,Curitiba,PR,Sul
+967,C00967,Eduarda Duarte,Propriá,SE,Nordeste
+968,C00968,João Guilherme Fogaça,Ananindeua,PA,Norte
+969,C00969,Ryan Sales,Olinda,PE,Nordeste
+970,C00970,Sr. Ian Farias,Serra,ES,Sudeste
+971,C00971,João Gabriel Ribeiro,Serra,ES,Sudeste
+972,C00972,Agatha Pires,Camaçari,BA,Nordeste
+973,C00973,Carlos Eduardo Mendes,Betim,MG,Sudeste
+974,C00974,Ian da Mata,Boa Vista,RR,Norte
+975,C00975,Diego Sales,Mazagão,AP,Norte
+976,C00976,Beatriz Moura,Ferreira Gomes,AP,Norte
+977,C00977,Dr. Bruno Cardoso,Aracaju,SE,Nordeste
+978,C00978,Vitor Hugo Jesus,Caracaraí,RR,Norte
+979,C00979,Ana Júlia Porto,Porto Nacional,TO,Norte
+980,C00980,Gustavo Sales,Aracaju,SE,Nordeste
+981,C00981,Júlia Cardoso,Natal,RN,Nordeste
+982,C00982,Rafaela da Mata,Sena Madureira,AC,Norte
+983,C00983,Nicolas Viana,Niterói,RJ,Sudeste
+984,C00984,Vitor Hugo Pereira,Londrina,PR,Sul
+985,C00985,Valentina Nunes,Rolim de Moura,RO,Norte
+986,C00986,Nicolas Porto,Ji-Paraná,RO,Norte
+987,C00987,Sr. Lucca Novaes,Caxias do Sul,RS,Sul
+988,C00988,Maysa Ramos,Currais Novos,RN,Nordeste
+989,C00989,Marcelo Peixoto,Curitiba,PR,Sul
+990,C00990,Sra. Mirella Fernandes,Macapá,AP,Norte
+991,C00991,Júlia da Mota,Santa Maria,RS,Sul
+992,C00992,Ana Laura Nascimento,Contagem,MG,Sudeste
+993,C00993,Rafaela da Luz,Vila Velha,ES,Sudeste
+994,C00994,Rafael Caldeira,Serra,ES,Sudeste
+995,C00995,Kevin Souza,Santa Rita,PB,Nordeste
+996,C00996,Renan Rocha,Vila Velha,ES,Sudeste
+997,C00997,Cauã Ferreira,Porto Alegre,RS,Sul
+998,C00998,João Miguel Azevedo,Estância,SE,Nordeste
+999,C00999,Kevin Costela,Porto Velho,RO,Norte
+1000,C01000,Dr. Lucas Gabriel Sales,Niterói,RJ,Sudeste
+1001,C01001,Gustavo Silveira,Itajaí,SC,Sul
+1002,C01002,Vitor Araújo,Betim,MG,Sudeste
+1003,C01003,Dra. Alícia da Paz,Brasiléia,AC,Norte
+1004,C01004,Gabrielly Castro,Sena Madureira,AC,Norte
+1005,C01005,Renan das Neves,Salvador,BA,Nordeste
+1006,C01006,Clara Moura,Blumenau,SC,Sul
+1007,C01007,Arthur da Mata,Santa Maria,RS,Sul
+1008,C01008,Vitor Gabriel Teixeira,Cantá,RR,Norte
+1009,C01009,Eduarda Nunes,Recife,PE,Nordeste
+1010,C01010,Srta. Caroline Jesus,Linhares,ES,Sudeste
+1011,C01011,Nicole Caldeira,Bacabal,MA,Nordeste
+1012,C01012,Sophie da Mota,Ribeirão Preto,SP,Sudeste
+1013,C01013,Sarah Correia,Manacapuru,AM,Norte
+1014,C01014,Fernando Nogueira,Feira de Santana,BA,Nordeste
+1015,C01015,Dra. Lorena da Rosa,Belém,PA,Norte
+1016,C01016,Leandro Carvalho,Chapecó,SC,Sul
+1017,C01017,Clara Nunes,Parintins,AM,Norte
+1018,C01018,Srta. Natália Cardoso,Cruzeiro do Sul,AC,Norte
+1019,C01019,Paulo Cardoso,Mazagão,AP,Norte
+1020,C01020,Sra. Catarina Nunes,Niterói,RJ,Sudeste
+1021,C01021,Letícia Carvalho,Juiz de Fora,MG,Sudeste
+1022,C01022,Esther Ribeiro,Palmas,TO,Norte
+1023,C01023,Sra. Daniela Lima,São Bernardo do Campo,SP,Sudeste
+1024,C01024,Julia Araújo,Tefé,AM,Norte
+1025,C01025,Benício Monteiro,Marabá,PA,Norte
+1026,C01026,Sra. Maitê Teixeira,Cachoeiro de Itapemirim,ES,Sudeste
+1027,C01027,Carolina Caldeira,Parnaíba,PI,Nordeste
+1028,C01028,Henrique da Mata,Linhares,ES,Sudeste
+1029,C01029,Thales Fernandes,Ferreira Gomes,AP,Norte
+1030,C01030,Dr. Diogo Dias,Rio Branco,AC,Norte
+1031,C01031,Olivia Souza,Camaçari,BA,Nordeste
+1032,C01032,Ana Lívia Novaes,Campinas,SP,Sudeste
+1033,C01033,Yasmin Gonçalves,Juazeiro,BA,Nordeste
+1034,C01034,Isabel da Mata,Maringá,PR,Sul
+1035,C01035,Maria Vitória da Rocha,Parnamirim,RN,Nordeste
+1036,C01036,Paulo da Cunha,Linhares,ES,Sudeste
+1037,C01037,Srta. Lara Porto,Linhares,ES,Sudeste
+1038,C01038,Dra. Manuela da Rocha,Santana,AP,Norte
+1039,C01039,Milena da Mata,Belém,PA,Norte
+1040,C01040,Yasmin Costela,Pelotas,RS,Sul
+1041,C01041,Lavínia Melo,Linhares,ES,Sudeste
+1042,C01042,Sr. Cauê Ferreira,Maringá,PR,Sul
+1043,C01043,Miguel da Rocha,Petrolina,PE,Nordeste
+1044,C01044,Eduarda Castro,Betim,MG,Sudeste
+1045,C01045,Eduarda Fogaça,Campinas,SP,Sudeste
+1046,C01046,Carolina Silva,São Luís,MA,Nordeste
+1047,C01047,Vitória Monteiro,Londrina,PR,Sul
+1048,C01048,Melissa Silva,Serra,ES,Sudeste
+1049,C01049,Otávio Sales,Porto Nacional,TO,Norte
+1050,C01050,Isabel Pereira,Vila Velha,ES,Sudeste
+1051,C01051,Henrique Vieira,Caicó,RN,Nordeste
+1052,C01052,Ian Costela,Laranjal do Jari,AP,Norte
+1053,C01053,Dr. Caio Costela,Cruzeiro do Sul,AC,Norte
+1054,C01054,Luiz Miguel Moura,Blumenau,SC,Sul
+1055,C01055,Lavínia Moraes,Florianópolis,SC,Sul
+1056,C01056,Amanda Gomes,Ji-Paraná,RO,Norte
+1057,C01057,Natália da Luz,Cascavel,PR,Sul
+1058,C01058,Sra. Esther Monteiro,Ananindeua,PA,Norte
+1059,C01059,Maitê Porto,Jaboatão dos Guararapes,PE,Nordeste
+1060,C01060,Francisco Castro,São Bernardo do Campo,SP,Sudeste
+1061,C01061,Beatriz Teixeira,São Bernardo do Campo,SP,Sudeste
+1062,C01062,Larissa da Paz,Caucaia,CE,Nordeste
+1063,C01063,Raquel Rezende,Caucaia,CE,Nordeste
+1064,C01064,Laís da Cunha,Mazagão,AP,Norte
+1065,C01065,Enzo Melo,Santa Maria,RS,Sul
+1066,C01066,Sr. Theo Dias,Vilhena,RO,Norte
+1067,C01067,Augusto Oliveira,Lagarto,SE,Nordeste
+1068,C01068,Sra. Sofia Sales,Porto Alegre,RS,Sul
+1069,C01069,Srta. Agatha Pereira,Laranjal do Jari,AP,Norte
+1070,C01070,João Miguel Sales,Laranjal do Jari,AP,Norte
+1071,C01071,Sra. Emilly Castro,Caucaia,CE,Nordeste
+1072,C01072,Dra. Natália Almeida,Ribeirão Preto,SP,Sudeste
+1073,C01073,Srta. Vitória Moraes,Caracaraí,RR,Norte
+1074,C01074,Luiz Henrique Almeida,Uberlândia,MG,Sudeste
+1075,C01075,Sr. Lucas Gabriel Souza,Gravataí,RS,Sul
+1076,C01076,Sr. Samuel Teixeira,Sobral,CE,Nordeste
+1077,C01077,Yasmin da Conceição,Araguaína,TO,Norte
+1078,C01078,Marcelo Martins,Rio Branco,AC,Norte
+1079,C01079,Marcelo Cavalcanti,Imperatriz,MA,Nordeste
+1080,C01080,Olivia da Cunha,Porto Alegre,RS,Sul
+1081,C01081,João Gabriel Nunes,Vitória,ES,Sudeste
+1082,C01082,Maria Vitória Almeida,Mazagão,AP,Norte
+1083,C01083,Dr. Caio da Mata,Juazeiro do Norte,CE,Nordeste
+1084,C01084,Felipe da Cunha,Tarauacá,AC,Norte
+1085,C01085,Joana Jesus,Ferreira Gomes,AP,Norte
+1086,C01086,Bernardo Vieira,Itajaí,SC,Sul
+1087,C01087,Lara Jesus,Ponta Grossa,PR,Sul
+1088,C01088,Eduarda Teixeira,Maringá,PR,Sul
+1089,C01089,Enzo Gabriel Ramos,Caxias,MA,Nordeste
+1090,C01090,Milena Silveira,Campinas,SP,Sudeste
+1091,C01091,Alícia da Cruz,Rolim de Moura,RO,Norte
+1092,C01092,Milena da Conceição,Caruaru,PE,Nordeste
+1093,C01093,Sra. Lara Mendes,Itajaí,SC,Sul
+1094,C01094,Sra. Maria Alice Costela,Sena Madureira,AC,Norte
+1095,C01095,Anthony Caldeira,Ponta Grossa,PR,Sul
+1096,C01096,Bruno Nascimento,Bayeux,PB,Nordeste
+1097,C01097,Gabrielly Santos,Santarém,PA,Norte
+1098,C01098,Miguel da Paz,Itajaí,SC,Sul
+1099,C01099,Alana Porto,Duque de Caxias,RJ,Sudeste
+1100,C01100,Ana Lívia Martins,Uberlândia,MG,Sudeste
+1101,C01101,Thiago da Paz,Uberlândia,MG,Sudeste
+1102,C01102,Levi Rezende,Cachoeiro de Itapemirim,ES,Sudeste
+1103,C01103,Stella Araújo,Contagem,MG,Sudeste
+1104,C01104,Leonardo Araújo,Santana,AP,Norte
+1105,C01105,Lucas Gabriel Azevedo,Vila Velha,ES,Sudeste
+1106,C01106,Dr. Caio Jesus,Caxias do Sul,RS,Sul
+1107,C01107,Maria Nogueira,Bayeux,PB,Nordeste
+1108,C01108,Thales da Cunha,Nova Iguaçu,RJ,Sudeste
+1109,C01109,Valentina Ribeiro,Caracaraí,RR,Norte
+1110,C01110,Srta. Helena Vieira,Santa Rita,PB,Nordeste
+1111,C01111,Evelyn Silva,Betim,MG,Sudeste
+1112,C01112,Ana Lívia Gonçalves,Rio Branco,AC,Norte
+1113,C01113,Calebe da Rocha,João Pessoa,PB,Nordeste
+1114,C01114,Maria Luiza Rezende,Maringá,PR,Sul
+1115,C01115,Benjamin Santos,Caxias,MA,Nordeste
+1116,C01116,Beatriz da Paz,Teresina,PI,Nordeste
+1117,C01117,Emilly Nogueira,Ferreira Gomes,AP,Norte
+1118,C01118,Brenda Caldeira,Crato,CE,Nordeste
+1119,C01119,Guilherme Pinto,Serra,ES,Sudeste
+1120,C01120,Sra. Laura da Mata,Florianópolis,SC,Sul
+1121,C01121,Arthur Monteiro,São Gonçalo,RJ,Sudeste
+1122,C01122,Ryan Vieira,Timon,MA,Nordeste
+1123,C01123,Ian Freitas,Blumenau,SC,Sul
+1124,C01124,Dr. Pedro Miguel Dias,Parnaíba,PI,Nordeste
+1125,C01125,Ana Lívia Castro,Parnamirim,RN,Nordeste
+1126,C01126,João Guilherme Barbosa,Contagem,MG,Sudeste
+1127,C01127,Dr. Diego Farias,Cantá,RR,Norte
+1128,C01128,Bárbara da Cunha,Florianópolis,SC,Sul
+1129,C01129,João Pedro Ramos,Bom Jesus,PI,Nordeste
+1130,C01130,Maria Vitória da Mata,Sobral,CE,Nordeste
+1131,C01131,Clarice Pinto,Teresina,PI,Nordeste
+1132,C01132,Raquel Nunes,Pico,PI,Nordeste
+1133,C01133,Nicole Sales,Juazeiro do Norte,CE,Nordeste
+1134,C01134,Leonardo Oliveira,Maringá,PR,Sul
+1135,C01135,Felipe Barros,João Pessoa,PB,Nordeste
+1136,C01136,Heitor da Cruz,Rio de Janeiro,RJ,Sudeste
+1137,C01137,Vicente Moreira,Tarauacá,AC,Norte
+1138,C01138,Marcelo da Rocha,Itajaí,SC,Sul
+1139,C01139,Brenda Campos,Caicó,RN,Nordeste
+1140,C01140,Nicole da Luz,Gravataí,RS,Sul
+1141,C01141,Yago Pires,Ponta Grossa,PR,Sul
+1142,C01142,Anthony Rezende,Timon,MA,Nordeste
+1143,C01143,Mirella Aragão,Palmas,TO,Norte
+1144,C01144,Bryan Moreira,Serra,ES,Sudeste
+1145,C01145,Vinicius da Mata,Vitória,ES,Sudeste
+1146,C01146,Alice Jesus,Betim,MG,Sudeste
+1147,C01147,Pedro Lucas da Cunha,Crato,CE,Nordeste
+1148,C01148,Sr. Gabriel Nogueira,Tefé,AM,Norte
+1149,C01149,Eloah Ribeiro,Florianópolis,SC,Sul
+1150,C01150,Pedro Henrique Aragão,Joinville,SC,Sul
+1151,C01151,Diogo Cavalcanti,Curitiba,PR,Sul
+1152,C01152,Carolina Monteiro,Parintins,AM,Norte
+1153,C01153,Maria Clara Novaes,Currais Novos,RN,Nordeste
+1154,C01154,Marina Carvalho,São Gonçalo,RJ,Sudeste
+1155,C01155,Esther Monteiro,Fortaleza,CE,Nordeste
+1156,C01156,Juliana Caldeira,Chapecó,SC,Sul
+1157,C01157,Matheus Ribeiro,Curitiba,PR,Sul
+1158,C01158,Rodrigo Fernandes,Cachoeiro de Itapemirim,ES,Sudeste
+1159,C01159,Luiza Oliveira,Tefé,AM,Norte
+1160,C01160,Clarice Campos,Curitiba,PR,Sul
+1161,C01161,Dr. Erick Rodrigues,Santana,AP,Norte
+1162,C01162,Alana Dias,Cachoeiro de Itapemirim,ES,Sudeste
+1163,C01163,Julia Rocha,Manacapuru,AM,Norte
+1164,C01164,Srta. Maria Eduarda Nascimento,Pelotas,RS,Sul
+1165,C01165,Maria Clara Correia,Cantá,RR,Norte
+1166,C01166,Olivia Lima,Maringá,PR,Sul
+1167,C01167,Ana Lívia Gomes,Caxias do Sul,RS,Sul
+1168,C01168,Laura da Cunha,Maringá,PR,Sul
+1169,C01169,Maria Eduarda Freitas,Pelotas,RS,Sul
+1170,C01170,Sr. Luiz Gustavo Almeida,Petrolina,PE,Nordeste
+1171,C01171,Kaique Rodrigues,Macapá,AP,Norte
+1172,C01172,Breno Carvalho,Caracaraí,RR,Norte
+1173,C01173,Isabella Almeida,Joinville,SC,Sul
+1174,C01174,Kamilly Rocha,Porto Nacional,TO,Norte
+1175,C01175,Ana Julia Nogueira,Itajaí,SC,Sul
+1176,C01176,Gustavo Henrique Novaes,Lagarto,SE,Nordeste
+1177,C01177,Melissa Pires,Belém,PA,Norte
+1178,C01178,Rafaela Pereira,Sobral,CE,Nordeste
+1179,C01179,Juan da Cruz,Imperatriz,MA,Nordeste
+1180,C01180,Sr. João Vitor Almeida,São Luís,MA,Nordeste
+1181,C01181,Dr. Pedro Miguel Moraes,Ponta Grossa,PR,Sul
+1182,C01182,Sra. Carolina Cardoso,Bacabal,MA,Nordeste
+1183,C01183,Maria Vitória Martins,Rio de Janeiro,RJ,Sudeste
+1184,C01184,Nina Azevedo,Castanhal,PA,Norte
+1185,C01185,Vicente Cardoso,Blumenau,SC,Sul
+1186,C01186,Thomas Nascimento,São Paulo,SP,Sudeste
+1187,C01187,Sr. Luiz Gustavo Rezende,Ponta Grossa,PR,Sul
+1188,C01188,Paulo Vieira,Bacabal,MA,Nordeste
+1189,C01189,Dr. João Lucas Nascimento,Brasiléia,AC,Norte
+1190,C01190,Thomas Teixeira,Gurupi,TO,Norte
+1191,C01191,Guilherme da Costa,São Bernardo do Campo,SP,Sudeste
+1192,C01192,Luiza Almeida,Itajaí,SC,Sul
+1193,C01193,Maria Sophia Cavalcanti,Londrina,PR,Sul
+1194,C01194,João Moraes,Campinas,SP,Sudeste
+1195,C01195,João Gabriel Campos,Ponta Grossa,PR,Sul
+1196,C01196,Sra. Sarah Cardoso,Uberlândia,MG,Sudeste
+1197,C01197,Esther Castro,Pelotas,RS,Sul
+1198,C01198,Dra. Heloísa Moreira,Itacoatiara,AM,Norte
+1199,C01199,Lucas Rocha,Duque de Caxias,RJ,Sudeste
+1200,C01200,Enzo Gabriel da Luz,Araguaína,TO,Norte
+1201,C01201,Sr. João Guilherme Teixeira,Caruaru,PE,Nordeste
+1202,C01202,Dr. João Guilherme da Rosa,Duque de Caxias,RJ,Sudeste
+1203,C01203,Fernanda Jesus,Mazagão,AP,Norte
+1204,C01204,Lucca Cunha,Caicó,RN,Nordeste
+1205,C01205,Fernanda da Costa,Linhares,ES,Sudeste
+1206,C01206,Letícia Fogaça,Juazeiro do Norte,CE,Nordeste
+1207,C01207,Fernando Barros,Cascavel,PR,Sul
+1208,C01208,Raul Carvalho,Santana,AP,Norte
+1209,C01209,Enzo Gabriel Azevedo,Feira de Santana,BA,Nordeste
+1210,C01210,Vitor Gabriel Cardoso,Belém,PA,Norte
+1211,C01211,Bárbara Ramos,Juiz de Fora,MG,Sudeste
+1212,C01212,Dr. João Felipe Sales,Ribeirão Preto,SP,Sudeste
+1213,C01213,Sabrina Farias,Florianópolis,SC,Sul
+1214,C01214,Ana Beatriz Melo,Laranjal do Jari,AP,Norte
+1215,C01215,Sr. Isaac Melo,Itajaí,SC,Sul
+1216,C01216,Mariane Lopes,Estância,SE,Nordeste
+1217,C01217,Kevin Santos,Niterói,RJ,Sudeste
+1218,C01218,Erick Moura,Serra,ES,Sudeste
+1219,C01219,Renan Carvalho,Belém,PA,Norte
+1220,C01220,Olivia Santos,Campina Grande,PB,Nordeste
+1221,C01221,Emanuella Rocha,Patos,PB,Nordeste
+1222,C01222,Joana Pinto,Florianópolis,SC,Sul
+1223,C01223,Ana Júlia da Mota,Ananindeua,PA,Norte
+1224,C01224,Heitor Caldeira,Feira de Santana,BA,Nordeste
+1225,C01225,Maria Moraes,São Gonçalo,RJ,Sudeste
+1226,C01226,Eduardo Lima,Pelotas,RS,Sul
+1227,C01227,Anthony Pires,Caxias do Sul,RS,Sul
+1228,C01228,Alexandre Cardoso,Gravataí,RS,Sul
+1229,C01229,Daniela Fogaça,Florianópolis,SC,Sul
+1230,C01230,Nicolas Correia,Vilhena,RO,Norte
+1231,C01231,Vinicius Castro,Rio de Janeiro,RJ,Sudeste
+1232,C01232,Sra. Rafaela Cunha,Maringá,PR,Sul
+1233,C01233,Vitor Hugo Cavalcanti,São Gonçalo,RJ,Sudeste
+1234,C01234,Igor Costela,Niterói,RJ,Sudeste
+1235,C01235,Letícia Caldeira,João Pessoa,PB,Nordeste
+1236,C01236,Lorenzo Lima,Blumenau,SC,Sul
+1237,C01237,Dr. Matheus Castro,Camaçari,BA,Nordeste
+1238,C01238,Srta. Maria Fernanda Martins,Duque de Caxias,RJ,Sudeste
+1239,C01239,Beatriz Pires,Porto Alegre,RS,Sul
+1240,C01240,Eloah da Cunha,Parnaíba,PI,Nordeste
+1241,C01241,Pedro Lucas Pires,Blumenau,SC,Sul
+1242,C01242,Marcos Vinicius da Cunha,Contagem,MG,Sudeste
+1243,C01243,Eduardo Rocha,Cachoeiro de Itapemirim,ES,Sudeste
+1244,C01244,Isadora Silva,Petrolina,PE,Nordeste
+1245,C01245,Rafael Teixeira,Teresina,PI,Nordeste
+1246,C01246,Dr. Pietro Cardoso,Parnaíba,PI,Nordeste
+1247,C01247,Melissa da Rocha,São Bernardo do Campo,SP,Sudeste
+1248,C01248,Nicole Ribeiro,Nova Iguaçu,RJ,Sudeste
+1249,C01249,Bruno da Conceição,São Paulo,SP,Sudeste
+1250,C01250,Srta. Ana Beatriz Silva,Cascavel,PR,Sul
+1251,C01251,Renan Barbosa,Ananindeua,PA,Norte
+1252,C01252,Luiz Fernando Cardoso,Porto Nacional,TO,Norte
+1253,C01253,Bernardo Cardoso,São Paulo,SP,Sudeste
+1254,C01254,Julia Novaes,Imperatriz,MA,Nordeste
+1255,C01255,Ana Vitória Monteiro,Ribeirão Preto,SP,Sudeste
+1256,C01256,Srta. Olivia Rodrigues,Maringá,PR,Sul
+1257,C01257,Natália Fogaça,Sobral,CE,Nordeste
+1258,C01258,Júlia Silveira,Juiz de Fora,MG,Sudeste
+1259,C01259,Dra. Isadora Cardoso,Tarauacá,AC,Norte
+1260,C01260,Srta. Sophie Azevedo,Contagem,MG,Sudeste
+1261,C01261,Gustavo Silva,Aracaju,SE,Nordeste
+1262,C01262,Alícia Vieira,Caicó,RN,Nordeste
+1263,C01263,Sr. Luiz Gustavo Rodrigues,Santa Maria,RS,Sul
+1264,C01264,Levi Pinto,Curitiba,PR,Sul
+1265,C01265,Leonardo Teixeira,Teresina,PI,Nordeste
+1266,C01266,Dr. Caio Melo,Uberlândia,MG,Sudeste
+1267,C01267,Beatriz Dias,Rorainópolis,RR,Norte
+1268,C01268,Maria Sophia Caldeira,Pico,PI,Nordeste
+1269,C01269,Maria Eduarda Peixoto,Sobral,CE,Nordeste
+1270,C01270,Sr. Cauã Carvalho,Uberlândia,MG,Sudeste
+1271,C01271,Sr. Noah da Paz,Itacoatiara,AM,Norte
+1272,C01272,Srta. Manuela Pinto,Chapecó,SC,Sul
+1273,C01273,Vicente Silveira,Campinas,SP,Sudeste
+1274,C01274,Gabrielly Azevedo,São Bernardo do Campo,SP,Sudeste
+1275,C01275,Heitor Sales,Timon,MA,Nordeste
+1276,C01276,Yago Pinto,Santana,AP,Norte
+1277,C01277,Pietro Cavalcanti,João Pessoa,PB,Nordeste
+1278,C01278,Sophia Gomes,Juazeiro do Norte,CE,Nordeste
+1279,C01279,Cauê Monteiro,Santarém,PA,Norte
+1280,C01280,Raul Vieira,Porto Velho,RO,Norte
+1281,C01281,Pedro Mendes,Boa Vista,RR,Norte
+1282,C01282,Vitor Gabriel Cavalcanti,Boa Vista,RR,Norte
+1283,C01283,Maria Silva,Santa Maria,RS,Sul
+1284,C01284,Maria Fernanda Novaes,Vilhena,RO,Norte
+1285,C01285,Srta. Mariane Farias,Joinville,SC,Sul
+1286,C01286,Dr. Benício Gomes,Vitória da Conquista,BA,Nordeste
+1287,C01287,Vinicius Fogaça,Florianópolis,SC,Sul
+1288,C01288,Maria Vieira,Betim,MG,Sudeste
+1289,C01289,Ana Júlia Ramos,Rolim de Moura,RO,Norte
+1290,C01290,Isabelly da Mota,Manaus,AM,Norte
+1291,C01291,Stella Correia,Ananindeua,PA,Norte
+1292,C01292,Carlos Eduardo Melo,Petrolina,PE,Nordeste
+1293,C01293,Catarina Nascimento,Floriano,PI,Nordeste
+1294,C01294,Sophie Silva,Uberlândia,MG,Sudeste
+1295,C01295,Milena Gonçalves,Ponta Grossa,PR,Sul
+1296,C01296,Dr. Bryan Caldeira,Uberlândia,MG,Sudeste
+1297,C01297,Sabrina Cunha,Boa Vista,RR,Norte
+1298,C01298,Dr. Luiz Miguel Oliveira,Tocantinópolis,TO,Norte
+1299,C01299,Daniel Martins,Curitiba,PR,Sul
+1300,C01300,Beatriz da Rocha,Boa Vista,RR,Norte
+1301,C01301,Dra. Carolina Cunha,Betim,MG,Sudeste
+1302,C01302,Amanda Almeida,Duque de Caxias,RJ,Sudeste
+1303,C01303,Caroline Carvalho,Cruzeiro do Sul,AC,Norte
+1304,C01304,Levi Cunha,Gurupi,TO,Norte
+1305,C01305,Sra. Maria Cecília Moreira,Duque de Caxias,RJ,Sudeste
+1306,C01306,Sr. Theo Gomes,Rio Branco,AC,Norte
+1307,C01307,Lucas Castro,Araguaína,TO,Norte
+1308,C01308,Leandro Lopes,Pico,PI,Nordeste
+1309,C01309,Samuel Novaes,Blumenau,SC,Sul
+1310,C01310,Lívia Farias,Itacoatiara,AM,Norte
+1311,C01311,Ana Júlia da Luz,Sobral,CE,Nordeste
+1312,C01312,Heloísa Melo,Pelotas,RS,Sul
+1313,C01313,Vitor Hugo Caldeira,Itajaí,SC,Sul
+1314,C01314,Manuela Monteiro,Joinville,SC,Sul
+1315,C01315,Sr. Luiz Gustavo Carvalho,Macapá,AP,Norte
+1316,C01316,Sr. João Vitor Moura,Sobral,CE,Nordeste
+1317,C01317,Dr. Lucca Farias,Itajaí,SC,Sul
+1318,C01318,Pietra Pires,Parnamirim,RN,Nordeste
+1319,C01319,Benjamin Azevedo,Araguaína,TO,Norte
+1320,C01320,Yasmin Azevedo,Porto Alegre,RS,Sul
+1321,C01321,Raul Alves,Porto Alegre,RS,Sul
+1322,C01322,Marina Freitas,Itacoatiara,AM,Norte
+1323,C01323,Marcela Cunha,Cantá,RR,Norte
+1324,C01324,Rebeca Pires,Bom Jesus,PI,Nordeste
+1325,C01325,Maria Cecília Gonçalves,Ananindeua,PA,Norte
+1326,C01326,Isabella Pinto,Santa Maria,RS,Sul
+1327,C01327,Julia Freitas,Salvador,BA,Nordeste
+1328,C01328,Dra. Luna Araújo,Propriá,SE,Nordeste
+1329,C01329,Leonardo Melo,Sobral,CE,Nordeste
+1330,C01330,Bárbara Dias,Juiz de Fora,MG,Sudeste
+1331,C01331,Ana Lívia Costela,Linhares,ES,Sudeste
+1332,C01332,Ryan Lima,Caicó,RN,Nordeste
+1333,C01333,Noah Alves,Sobral,CE,Nordeste
+1334,C01334,Srta. Brenda Duarte,Itajaí,SC,Sul
+1335,C01335,Sra. Emanuelly da Costa,Porto Nacional,TO,Norte
+1336,C01336,Marina Caldeira,Porto Alegre,RS,Sul
+1337,C01337,Joana Nogueira,Florianópolis,SC,Sul
+1338,C01338,Yago Vieira,Marabá,PA,Norte
+1339,C01339,Ryan Teixeira,Rolim de Moura,RO,Norte
+1340,C01340,Sr. Nicolas Freitas,Palmas,TO,Norte
+1341,C01341,Dra. Rafaela Peixoto,Betim,MG,Sudeste
+1342,C01342,Yasmin Costa,Rio de Janeiro,RJ,Sudeste
+1343,C01343,Diego Silva,Lagarto,SE,Nordeste
+1344,C01344,Matheus Melo,Blumenau,SC,Sul
+1345,C01345,Alice Alves,Curitiba,PR,Sul
+1346,C01346,Maria Cecília Castro,Vitória da Conquista,BA,Nordeste
+1347,C01347,Luiza Azevedo,Nova Iguaçu,RJ,Sudeste
+1348,C01348,Danilo Nunes,Vitória,ES,Sudeste
+1349,C01349,Noah Fogaça,Nossa Senhora,SE,Nordeste
+1350,C01350,Gabrielly Castro,Maringá,PR,Sul
+1351,C01351,Melissa Peixoto,João Pessoa,PB,Nordeste
+1352,C01352,Luiz Miguel Silva,Ponta Grossa,PR,Sul
+1353,C01353,Manuela Rocha,Teresina,PI,Nordeste
+1354,C01354,Marcela Pires,Cascavel,PR,Sul
+1355,C01355,Bianca Pereira,Porto Nacional,TO,Norte
+1356,C01356,Maria Vitória Cardoso,Chapecó,SC,Sul
+1357,C01357,Evelyn Ramos,Aracaju,SE,Nordeste
+1358,C01358,Maitê Sales,Cacoal,RO,Norte
+1359,C01359,Theo Mendes,Joinville,SC,Sul
+1360,C01360,Maria Alice Moreira,São Luís,MA,Nordeste
+1361,C01361,Sofia Santos,Chapecó,SC,Sul
+1362,C01362,Daniel da Luz,Santo André,SP,Sudeste
+1363,C01363,Pietro Monteiro,Caruaru,PE,Nordeste
+1364,C01364,Sr. Marcelo Silva,Duque de Caxias,RJ,Sudeste
+1365,C01365,Dr. Vitor Gabriel Moura,Timon,MA,Nordeste
+1366,C01366,Rafael da Rocha,Nova Iguaçu,RJ,Sudeste
+1367,C01367,Letícia da Luz,Campina Grande,PB,Nordeste
+1368,C01368,Dr. Luiz Felipe Lopes,Niterói,RJ,Sudeste
+1369,C01369,Maria Clara Porto,Teresina,PI,Nordeste
+1370,C01370,Yasmin da Rocha,Ribeirão Preto,SP,Sudeste
+1371,C01371,Joaquim Silva,Chapecó,SC,Sul
+1372,C01372,Stella Moraes,São Paulo,SP,Sudeste
+1373,C01373,Sra. Alícia Ramos,Tarauacá,AC,Norte
+1374,C01374,Thiago Correia,Salvador,BA,Nordeste
+1375,C01375,Sophie Oliveira,Olinda,PE,Nordeste
+1376,C01376,Sofia Lopes,Niterói,RJ,Sudeste
+1377,C01377,Augusto da Cruz,Caracaraí,RR,Norte
+1378,C01378,Maria Vitória Jesus,Vitória da Conquista,BA,Nordeste
+1379,C01379,Sr. Luiz Miguel Duarte,Cascavel,PR,Sul
+1380,C01380,Sabrina Almeida,Mossoró,RN,Nordeste
+1381,C01381,Júlia Costela,Cachoeiro de Itapemirim,ES,Sudeste
+1382,C01382,Giovanna Oliveira,Pelotas,RS,Sul
+1383,C01383,Nicole Moraes,Sena Madureira,AC,Norte
+1384,C01384,Kaique das Neves,Nossa Senhora,SE,Nordeste
+1385,C01385,Elisa Vieira,Contagem,MG,Sudeste
+1386,C01386,Sr. Ryan Gonçalves,Campinas,SP,Sudeste
+1387,C01387,Noah Oliveira,Santana,AP,Norte
+1388,C01388,Sr. Luiz Miguel Oliveira,Belém,PA,Norte
+1389,C01389,Lucas Silva,Gravataí,RS,Sul
+1390,C01390,Otávio Oliveira,Contagem,MG,Sudeste
+1391,C01391,Dra. Gabriela Vieira,Serra,ES,Sudeste
+1392,C01392,Clara das Neves,Joinville,SC,Sul
+1393,C01393,Luiz Henrique Moraes,Laranjal do Jari,AP,Norte
+1394,C01394,Lorenzo Azevedo,Tocantinópolis,TO,Norte
+1395,C01395,Sr. Bryan Castro,Ribeirão Preto,SP,Sudeste
+1396,C01396,Enzo Gabriel Monteiro,Serra,ES,Sudeste
+1397,C01397,Vitória Cardoso,Bacabal,MA,Nordeste
+1398,C01398,Srta. Valentina Ribeiro,Tocantinópolis,TO,Norte
+1399,C01399,Pietra Peixoto,Currais Novos,RN,Nordeste
+1400,C01400,Melissa da Conceição,Maringá,PR,Sul
+1401,C01401,Cauã da Mota,Patos,PB,Nordeste
+1402,C01402,Fernando Silva,São Gonçalo,RJ,Sudeste
+1403,C01403,Ana Júlia Novaes,Estância,SE,Nordeste
+1404,C01404,Clara Pinto,Sena Madureira,AC,Norte
+1405,C01405,Fernanda da Cruz,Cascavel,PR,Sul
+1406,C01406,Laura Rodrigues,Vitória da Conquista,BA,Nordeste
+1407,C01407,Rodrigo da Rocha,Ponta Grossa,PR,Sul
+1408,C01408,Sr. Heitor Jesus,Rio de Janeiro,RJ,Sudeste
+1409,C01409,Luiza Teixeira,Santo André,SP,Sudeste
+1410,C01410,Guilherme Melo,Parintins,AM,Norte
+1411,C01411,André Nunes,Vitória,ES,Sudeste
+1412,C01412,Sr. Marcos Vinicius Correia,Salvador,BA,Nordeste
+1413,C01413,Eduardo Pires,Santa Rita,PB,Nordeste
+1414,C01414,Larissa Teixeira,Ferreira Gomes,AP,Norte
+1415,C01415,Emanuella Lima,Florianópolis,SC,Sul
+1416,C01416,Maria Vitória Nascimento,Camaçari,BA,Nordeste
+1417,C01417,Emilly Rodrigues,Vitória,ES,Sudeste
+1418,C01418,Heloísa Silva,Cruzeiro do Sul,AC,Norte
+1419,C01419,Isabella Costa,Linhares,ES,Sudeste
+1420,C01420,Dra. Sophie da Luz,Caruaru,PE,Nordeste
+1421,C01421,Isabella Sales,Santa Maria,RS,Sul
+1422,C01422,Camila Lima,Porto Alegre,RS,Sul
+1423,C01423,Joaquim Pereira,Florianópolis,SC,Sul
+1424,C01424,Dr. Levi Jesus,Cantá,RR,Norte
+1425,C01425,Lucca Ramos,Tocantinópolis,TO,Norte
+1426,C01426,Letícia Campos,Boa Vista,RR,Norte
+1427,C01427,Theo Caldeira,Serra,ES,Sudeste
+1428,C01428,Erick Cardoso,Serra,ES,Sudeste
+1429,C01429,Isabel Jesus,Santa Maria,RS,Sul
+1430,C01430,Esther Teixeira,Ananindeua,PA,Norte
+1431,C01431,Dr. João Lucas Farias,Timon,MA,Nordeste
+1432,C01432,Breno Santos,Juiz de Fora,MG,Sudeste
+1433,C01433,Dr. Ian Vieira,Linhares,ES,Sudeste
+1434,C01434,Clara Gomes,Fortaleza,CE,Nordeste
+1435,C01435,Dra. Pietra Cunha,Rolim de Moura,RO,Norte
+1436,C01436,Juliana Barbosa,Chapecó,SC,Sul
+1437,C01437,Pietra Duarte,Parintins,AM,Norte
+1438,C01438,Srta. Luna Moraes,Betim,MG,Sudeste
+1439,C01439,Maria Clara Dias,Imperatriz,MA,Nordeste
+1440,C01440,Emilly Cavalcanti,Olinda,PE,Nordeste
+1441,C01441,Manuela Cavalcanti,Ferreira Gomes,AP,Norte
+1442,C01442,Dr. Gustavo Souza,Tocantinópolis,TO,Norte
+1443,C01443,Dra. Maria Sophia Nogueira,Chapecó,SC,Sul
+1444,C01444,João Guilherme Lima,Manaus,AM,Norte
+1445,C01445,Dr. Pietro das Neves,Vila Velha,ES,Sudeste
+1446,C01446,Maria Fernanda Nunes,Pelotas,RS,Sul
+1447,C01447,Sophie Farias,João Pessoa,PB,Nordeste
+1448,C01448,Maitê Gonçalves,Vila Velha,ES,Sudeste
+1449,C01449,Ana Julia da Rocha,Santo André,SP,Sudeste
+1450,C01450,Leonardo Araújo,Nova Iguaçu,RJ,Sudeste
+1451,C01451,Lucas Gabriel Sales,Pico,PI,Nordeste
+1452,C01452,Sarah Melo,Curitiba,PR,Sul
+1453,C01453,Alexia Cavalcanti,Contagem,MG,Sudeste
+1454,C01454,Dra. Maria Cecília Freitas,Pelotas,RS,Sul
+1455,C01455,Yago da Luz,Floriano,PI,Nordeste
+1456,C01456,Leonardo Moraes,Pelotas,RS,Sul
+1457,C01457,Emilly Farias,Ribeirão Preto,SP,Sudeste
+1458,C01458,Davi Carvalho,Ferreira Gomes,AP,Norte
+1459,C01459,João Vitor Araújo,Gurupi,TO,Norte
+1460,C01460,Srta. Ana Beatriz Castro,Patos,PB,Nordeste
+1461,C01461,Davi Lucca Freitas,Boa Vista,RR,Norte
+1462,C01462,Guilherme da Cunha,Tocantinópolis,TO,Norte
+1463,C01463,Caio Porto,Tocantinópolis,TO,Norte
+1464,C01464,Dr. Nathan Alves,Joinville,SC,Sul
+1465,C01465,Emanuel Gonçalves,Vilhena,RO,Norte
+1466,C01466,Dr. Theo Almeida,Joinville,SC,Sul
+1467,C01467,Lívia Teixeira,Campinas,SP,Sudeste
+1468,C01468,Ana Sophia Freitas,Betim,MG,Sudeste
+1469,C01469,Larissa Gonçalves,Santarém,PA,Norte
+1470,C01470,Nicolas Freitas,Rorainópolis,RR,Norte
+1471,C01471,Pedro Henrique Fernandes,Timon,MA,Nordeste
+1472,C01472,Catarina Nunes,Bacabal,MA,Nordeste
+1473,C01473,Lorena Rezende,Lagarto,SE,Nordeste
+1474,C01474,Isis Ramos,Mazagão,AP,Norte
+1475,C01475,Francisco Ribeiro,Juazeiro do Norte,CE,Nordeste
+1476,C01476,Ana Julia Pires,Uberlândia,MG,Sudeste
+1477,C01477,Enrico Castro,Floriano,PI,Nordeste
+1478,C01478,Mariana Melo,Porto Alegre,RS,Sul
+1479,C01479,Elisa Moura,Caracaraí,RR,Norte
+1480,C01480,Isadora Viana,Cantá,RR,Norte
+1481,C01481,Lucas Gabriel Correia,Nova Iguaçu,RJ,Sudeste
+1482,C01482,André Monteiro,Caicó,RN,Nordeste
+1483,C01483,Marcelo Mendes,Linhares,ES,Sudeste
+1484,C01484,Alice Fernandes,Campinas,SP,Sudeste
+1485,C01485,Daniela da Luz,Pelotas,RS,Sul
+1486,C01486,Rafaela Campos,Gravataí,RS,Sul
+1487,C01487,Caroline Silveira,Ji-Paraná,RO,Norte
+1488,C01488,Enzo Gabriel Costa,Londrina,PR,Sul
+1489,C01489,Caroline da Luz,Vilhena,RO,Norte
+1490,C01490,Sophie Cavalcanti,Imperatriz,MA,Nordeste
+1491,C01491,Cecília Nascimento,Bom Jesus,PI,Nordeste
+1492,C01492,Davi Lucas Campos,Rorainópolis,RR,Norte
+1493,C01493,Sra. Luna Mendes,Porto Alegre,RS,Sul
+1494,C01494,Dra. Ana Laura Pires,Itajaí,SC,Sul
+1495,C01495,Sr. Breno Martins,Cascavel,PR,Sul
+1496,C01496,Catarina Vieira,Natal,RN,Nordeste
+1497,C01497,Isaac Rocha,Feira de Santana,BA,Nordeste
+1498,C01498,Juan Araújo,Bacabal,MA,Nordeste
+1499,C01499,Noah Rodrigues,Ji-Paraná,RO,Norte
+1500,C01500,Nina Ramos,Laranjal do Jari,AP,Norte
+1501,C01501,Calebe Gonçalves,Currais Novos,RN,Nordeste
+1502,C01502,Cauê Jesus,Caracaraí,RR,Norte
+1503,C01503,Emanuel Lopes,Mazagão,AP,Norte
+1504,C01504,Pedro Miguel Caldeira,Caxias do Sul,RS,Sul
+1505,C01505,Bárbara Rocha,Currais Novos,RN,Nordeste
+1506,C01506,Davi Luiz Rocha,Bacabal,MA,Nordeste
+1507,C01507,Dr. Diego Aragão,Juiz de Fora,MG,Sudeste
+1508,C01508,Letícia Cavalcanti,Chapecó,SC,Sul
+1509,C01509,Sra. Marina Araújo,Mazagão,AP,Norte
+1510,C01510,Renan Martins,Curitiba,PR,Sul
+1511,C01511,Catarina Ramos,Ferreira Gomes,AP,Norte
+1512,C01512,Sophia Nascimento,Cascavel,PR,Sul
+1513,C01513,Sra. Evelyn Peixoto,Mazagão,AP,Norte
+1514,C01514,Laís Jesus,Tocantinópolis,TO,Norte
+1515,C01515,Catarina Silva,Tarauacá,AC,Norte
+1516,C01516,Luana Rezende,Camaçari,BA,Nordeste
+1517,C01517,João Guilherme Vieira,Porto Alegre,RS,Sul
+1518,C01518,Matheus Nunes,Ponta Grossa,PR,Sul
+1519,C01519,Caio Duarte,Gravataí,RS,Sul
+1520,C01520,Luana Rocha,Ananindeua,PA,Norte
+1521,C01521,Cauã Moraes,Campinas,SP,Sudeste
+1522,C01522,Augusto da Paz,Tefé,AM,Norte
+1523,C01523,Ana Vitória Costela,Caxias do Sul,RS,Sul
+1524,C01524,Dr. João Pedro Carvalho,Boa Vista,RR,Norte
+1525,C01525,Dr. Otávio Peixoto,Porto Velho,RO,Norte
+1526,C01526,Davi Luiz Mendes,Joinville,SC,Sul
+1527,C01527,Agatha da Cunha,São Bernardo do Campo,SP,Sudeste
+1528,C01528,Agatha Ribeiro,Mazagão,AP,Norte
+1529,C01529,João Guilherme Araújo,Nova Iguaçu,RJ,Sudeste
+1530,C01530,Gustavo Henrique da Luz,Blumenau,SC,Sul
+1531,C01531,Luna da Conceição,Campinas,SP,Sudeste
+1532,C01532,Ana Novaes,Chapecó,SC,Sul
+1533,C01533,Ana Beatriz Costela,Maringá,PR,Sul
+1534,C01534,Beatriz Mendes,Pelotas,RS,Sul
+1535,C01535,Benjamin Mendes,Campinas,SP,Sudeste
+1536,C01536,Caio Costela,Rorainópolis,RR,Norte
+1537,C01537,Fernanda da Costa,Joinville,SC,Sul
+1538,C01538,Emanuella Porto,Ferreira Gomes,AP,Norte
+1539,C01539,Maria Alice Barros,Gravataí,RS,Sul
+1540,C01540,Caio Cavalcanti,Mazagão,AP,Norte
+1541,C01541,Dr. Joaquim Rocha,Palmas,TO,Norte
+1542,C01542,Thiago da Rocha,Estância,SE,Nordeste
+1543,C01543,Thales Cavalcanti,Curitiba,PR,Sul
+1544,C01544,Dr. Lucca Moura,Juiz de Fora,MG,Sudeste
+1545,C01545,Emanuella Souza,Porto Velho,RO,Norte
+1546,C01546,Ana Clara Carvalho,Gravataí,RS,Sul
+1547,C01547,Sra. Maria Eduarda Cardoso,Vila Velha,ES,Sudeste
+1548,C01548,Larissa Lima,Porto Alegre,RS,Sul
+1549,C01549,Luiza Lopes,Olinda,PE,Nordeste
+1550,C01550,Marcelo da Mata,Tocantinópolis,TO,Norte
+1551,C01551,Julia Moura,São Luís,MA,Nordeste
+1552,C01552,Milena Ferreira,Uberlândia,MG,Sudeste
+1553,C01553,Davi Luiz Monteiro,Juazeiro do Norte,CE,Nordeste
+1554,C01554,Milena Caldeira,Santa Maria,RS,Sul
+1555,C01555,Caroline da Rosa,Joinville,SC,Sul
+1556,C01556,Fernando Ramos,Boa Vista,RR,Norte
+1557,C01557,Sr. Davi Cardoso,Vilhena,RO,Norte
+1558,C01558,Beatriz Aragão,São Gonçalo,RJ,Sudeste
+1559,C01559,Maria da Paz,Santa Rita,PB,Nordeste
+1560,C01560,Noah Rodrigues,Florianópolis,SC,Sul
+1561,C01561,Valentina Fogaça,Betim,MG,Sudeste
+1562,C01562,Davi Lucca Azevedo,Porto Velho,RO,Norte
+1563,C01563,Davi Luiz Moura,Rio de Janeiro,RJ,Sudeste
+1564,C01564,Dr. Ryan Ramos,Duque de Caxias,RJ,Sudeste
+1565,C01565,Alexandre Rezende,Itajaí,SC,Sul
+1566,C01566,Maria Cecília Gonçalves,Floriano,PI,Nordeste
+1567,C01567,Luiz Felipe da Cunha,Florianópolis,SC,Sul
+1568,C01568,Thales Jesus,Maringá,PR,Sul
+1569,C01569,Luiz Felipe Porto,Ananindeua,PA,Norte
+1570,C01570,Helena Silva,Floriano,PI,Nordeste
+1571,C01571,Gabriel Martins,Serra,ES,Sudeste
+1572,C01572,Daniela Peixoto,Recife,PE,Nordeste
+1573,C01573,Srta. Ana Laura Oliveira,Blumenau,SC,Sul
+1574,C01574,Cauê Lopes,Ji-Paraná,RO,Norte
+1575,C01575,Alana Novaes,Pelotas,RS,Sul
+1576,C01576,Otávio Campos,Olinda,PE,Nordeste
+1577,C01577,Emanuelly Duarte,Nossa Senhora,SE,Nordeste
+1578,C01578,Danilo Cardoso,Patos,PB,Nordeste
+1579,C01579,Danilo Farias,Campina Grande,PB,Nordeste
+1580,C01580,Ana Julia da Paz,Parnaíba,PI,Nordeste
+1581,C01581,Ana Luiza Barros,Rio Branco,AC,Norte
+1582,C01582,Enzo Gabriel Novaes,Florianópolis,SC,Sul
+1583,C01583,Alice Costela,Porto Nacional,TO,Norte
+1584,C01584,Sra. Daniela Aragão,Duque de Caxias,RJ,Sudeste
+1585,C01585,Ana Lívia Ramos,Campinas,SP,Sudeste
+1586,C01586,Laís Mendes,Campinas,SP,Sudeste
+1587,C01587,Luiz Henrique Nunes,Juazeiro,BA,Nordeste
+1588,C01588,Sofia Nogueira,Gravataí,RS,Sul
+1589,C01589,Sr. Luiz Gustavo Martins,Vilhena,RO,Norte
+1590,C01590,Bruno Sales,Joinville,SC,Sul
+1591,C01591,Rebeca Farias,Cascavel,PR,Sul
+1592,C01592,Lucas Martins,Porto Alegre,RS,Sul
+1593,C01593,Sra. Alana Martins,Rorainópolis,RR,Norte
+1594,C01594,Ana Clara Caldeira,Florianópolis,SC,Sul
+1595,C01595,Alícia Santos,Nova Iguaçu,RJ,Sudeste
+1596,C01596,Guilherme Cavalcanti,Juiz de Fora,MG,Sudeste
+1597,C01597,Vitor Hugo Cardoso,Caruaru,PE,Nordeste
+1598,C01598,Srta. Laura Martins,Niterói,RJ,Sudeste
+1599,C01599,Breno Aragão,Caxias do Sul,RS,Sul
+1600,C01600,Alice da Paz,Blumenau,SC,Sul
+1601,C01601,Júlia Moraes,São Bernardo do Campo,SP,Sudeste
+1602,C01602,Sr. Thiago Silveira,Cascavel,PR,Sul
+1603,C01603,Heitor Pereira,João Pessoa,PB,Nordeste
+1604,C01604,Lorenzo Almeida,Betim,MG,Sudeste
+1605,C01605,Isaac Lopes,Londrina,PR,Sul
+1606,C01606,Isabel da Luz,Aracaju,SE,Nordeste
+1607,C01607,Dr. Rafael Castro,Caicó,RN,Nordeste
+1608,C01608,Larissa Rodrigues,Floriano,PI,Nordeste
+1609,C01609,Laura Pereira,Nova Iguaçu,RJ,Sudeste
+1610,C01610,Vitor Gabriel Araújo,Belém,PA,Norte
+1611,C01611,Ana Lívia Dias,Feira de Santana,BA,Nordeste
+1612,C01612,Arthur Mendes,São Paulo,SP,Sudeste
+1613,C01613,Emanuella Fernandes,Blumenau,SC,Sul
+1614,C01614,Srta. Eloah Vieira,São Gonçalo,RJ,Sudeste
+1615,C01615,Juliana Costela,Rio de Janeiro,RJ,Sudeste
+1616,C01616,Dr. Gabriel Lima,Maringá,PR,Sul
+1617,C01617,Maria Vitória Costela,Caxias,MA,Nordeste
+1618,C01618,Ana Beatriz Vieira,Nova Iguaçu,RJ,Sudeste
+1619,C01619,Sr. Luiz Otávio Porto,Itajaí,SC,Sul
+1620,C01620,Benício Fernandes,Castanhal,PA,Norte
+1621,C01621,Juan Monteiro,Campinas,SP,Sudeste
+1622,C01622,Thales Silveira,Floriano,PI,Nordeste
+1623,C01623,Dra. Lavínia da Rosa,Curitiba,PR,Sul
+1624,C01624,Theo Moreira,Parnaíba,PI,Nordeste
+1625,C01625,Srta. Ana Julia Viana,São Gonçalo,RJ,Sudeste
+1626,C01626,Luiz Gustavo da Mota,São Bernardo do Campo,SP,Sudeste
+1627,C01627,Bruno Cardoso,Gravataí,RS,Sul
+1628,C01628,Bárbara da Rocha,Caxias do Sul,RS,Sul
+1629,C01629,Otávio Fogaça,Feira de Santana,BA,Nordeste
+1630,C01630,Daniela da Costa,Recife,PE,Nordeste
+1631,C01631,Alana Cardoso,Timon,MA,Nordeste
+1632,C01632,Vitor Gabriel Nascimento,Rio Branco,AC,Norte
+1633,C01633,Maria Clara da Mota,Florianópolis,SC,Sul
+1634,C01634,Bruno Silva,Porto Nacional,TO,Norte
+1635,C01635,Luiz Henrique Lopes,Sena Madureira,AC,Norte
+1636,C01636,Julia da Cruz,Sobral,CE,Nordeste
+1637,C01637,Stephany da Cunha,Contagem,MG,Sudeste
+1638,C01638,Dra. Agatha Moreira,Campinas,SP,Sudeste
+1639,C01639,Leandro Freitas,São Luís,MA,Nordeste
+1640,C01640,Vicente Ramos,Caracaraí,RR,Norte
+1641,C01641,Srta. Emilly Castro,Santo André,SP,Sudeste
+1642,C01642,Maria Clara Cardoso,Campinas,SP,Sudeste
+1643,C01643,Nina da Mota,Estância,SE,Nordeste
+1644,C01644,Ryan da Rocha,Chapecó,SC,Sul
+1645,C01645,Sr. Antônio Novaes,Duque de Caxias,RJ,Sudeste
+1646,C01646,Sra. Olivia Pereira,Sobral,CE,Nordeste
+1647,C01647,Davi da Rocha,Duque de Caxias,RJ,Sudeste
+1648,C01648,Brenda Cardoso,Juiz de Fora,MG,Sudeste
+1649,C01649,Nathan Castro,Brasiléia,AC,Norte
+1650,C01650,Dr. Yuri Duarte,Pico,PI,Nordeste
+1651,C01651,Danilo Gomes,Florianópolis,SC,Sul
+1652,C01652,Enzo Teixeira,Pelotas,RS,Sul
+1653,C01653,Murilo Cunha,Porto Nacional,TO,Norte
+1654,C01654,Emilly Nascimento,Uberlândia,MG,Sudeste
+1655,C01655,Maria Fernanda Farias,Betim,MG,Sudeste
+1656,C01656,Luana Caldeira,Caxias do Sul,RS,Sul
+1657,C01657,Vicente Souza,Caicó,RN,Nordeste
+1658,C01658,Brenda Silva,Recife,PE,Nordeste
+1659,C01659,Diogo Santos,Joinville,SC,Sul
+1660,C01660,Luiz Gustavo Silva,Nova Iguaçu,RJ,Sudeste
+1661,C01661,Eduarda Cardoso,Campinas,SP,Sudeste
+1662,C01662,Sophia Aragão,Santana,AP,Norte
+1663,C01663,Maria Vitória Silva,Cachoeiro de Itapemirim,ES,Sudeste
+1664,C01664,Camila Teixeira,Gravataí,RS,Sul
+1665,C01665,Srta. Laura da Conceição,Maringá,PR,Sul
+1666,C01666,Pedro Miguel Mendes,Macapá,AP,Norte
+1667,C01667,Camila Aragão,Macapá,AP,Norte
+1668,C01668,Mirella Caldeira,Niterói,RJ,Sudeste
+1669,C01669,Manuela da Mata,Florianópolis,SC,Sul
+1670,C01670,Srta. Marina Rocha,Caucaia,CE,Nordeste
+1671,C01671,João Peixoto,Ananindeua,PA,Norte
+1672,C01672,Yasmin Lopes,São Bernardo do Campo,SP,Sudeste
+1673,C01673,Dra. Sofia da Costa,Santa Maria,RS,Sul
+1674,C01674,Dr. Thomas da Conceição,Manaus,AM,Norte
+1675,C01675,Esther Vieira,Vitória da Conquista,BA,Nordeste
+1676,C01676,Rafael Costa,Cascavel,PR,Sul
+1677,C01677,Matheus Ribeiro,Londrina,PR,Sul
+1678,C01678,Agatha das Neves,São Paulo,SP,Sudeste
+1679,C01679,Amanda Araújo,Araguaína,TO,Norte
+1680,C01680,Bernardo Farias,Caxias do Sul,RS,Sul
+1681,C01681,Júlia Oliveira,Mazagão,AP,Norte
+1682,C01682,Paulo Farias,Ji-Paraná,RO,Norte
+1683,C01683,Julia Araújo,Pelotas,RS,Sul
+1684,C01684,Nicolas Pereira,Uberlândia,MG,Sudeste
+1685,C01685,Sr. Noah Rocha,Manacapuru,AM,Norte
+1686,C01686,Davi Luiz Monteiro,Juiz de Fora,MG,Sudeste
+1687,C01687,Milena da Mata,Araguaína,TO,Norte
+1688,C01688,Bryan Farias,Mazagão,AP,Norte
+1689,C01689,Maria Eduarda Silveira,Vila Velha,ES,Sudeste
+1690,C01690,Luiz Fernando Almeida,Cachoeiro de Itapemirim,ES,Sudeste
+1691,C01691,Sophie Campos,Salvador,BA,Nordeste
+1692,C01692,Augusto Carvalho,Chapecó,SC,Sul
+1693,C01693,Mariane Campos,Teresina,PI,Nordeste
+1694,C01694,Alana Lopes,Timon,MA,Nordeste
+1695,C01695,Daniel Jesus,Cantá,RR,Norte
+1696,C01696,Samuel Rocha,Vitória,ES,Sudeste
+1697,C01697,Luiz Otávio Costela,Uberlândia,MG,Sudeste
+1698,C01698,Matheus Ferreira,Nossa Senhora,SE,Nordeste
+1699,C01699,Francisco Lima,Duque de Caxias,RJ,Sudeste
+1700,C01700,Clara da Paz,Camaçari,BA,Nordeste
+1701,C01701,Dr. Enzo Gabriel Souza,Juiz de Fora,MG,Sudeste
+1702,C01702,Cauê Cardoso,Marabá,PA,Norte
+1703,C01703,Dr. Felipe Moraes,Campinas,SP,Sudeste
+1704,C01704,Sr. Juan Cardoso,Pico,PI,Nordeste
+1705,C01705,Raquel Monteiro,Gravataí,RS,Sul
+1706,C01706,Mariane Pinto,Crato,CE,Nordeste
+1707,C01707,Carolina Carvalho,Lagarto,SE,Nordeste
+1708,C01708,Isabel Porto,Duque de Caxias,RJ,Sudeste
+1709,C01709,Valentina Pires,Tocantinópolis,TO,Norte
+1710,C01710,Letícia Correia,Joinville,SC,Sul
+1711,C01711,Sr. Lucas Gabriel Rodrigues,Vilhena,RO,Norte
+1712,C01712,André Nascimento,Teresina,PI,Nordeste
+1713,C01713,Dr. João Gabriel Castro,Cascavel,PR,Sul
+1714,C01714,Dr. Otávio da Rosa,Joinville,SC,Sul
+1715,C01715,Dr. João Gabriel Jesus,Duque de Caxias,RJ,Sudeste
+1716,C01716,Igor Caldeira,Vitória,ES,Sudeste
+1717,C01717,Vicente Porto,Cruzeiro do Sul,AC,Norte
+1718,C01718,Vitor Gabriel Lima,Feira de Santana,BA,Nordeste
+1719,C01719,Diego Costela,Ananindeua,PA,Norte
+1720,C01720,Luiz Felipe Lopes,Brasiléia,AC,Norte
+1721,C01721,Eduarda da Paz,Itajaí,SC,Sul
+1722,C01722,Thales Novaes,Serra,ES,Sudeste
+1723,C01723,Evelyn Azevedo,Fortaleza,CE,Nordeste
+1724,C01724,Maysa Nascimento,Aracaju,SE,Nordeste
+1725,C01725,Srta. Ana Vitória Melo,Florianópolis,SC,Sul
+1726,C01726,Cauê Pinto,São Bernardo do Campo,SP,Sudeste
+1727,C01727,Maysa da Conceição,Tocantinópolis,TO,Norte
+1728,C01728,Diogo Porto,Vitória,ES,Sudeste
+1729,C01729,Diogo Nascimento,Vila Velha,ES,Sudeste
+1730,C01730,Heitor Nunes,Cruzeiro do Sul,AC,Norte
+1731,C01731,Ana Laura Teixeira,Londrina,PR,Sul
+1732,C01732,Maitê Teixeira,Bacabal,MA,Nordeste
+1733,C01733,Luna Silva,Florianópolis,SC,Sul
+1734,C01734,Juliana Castro,Santo André,SP,Sudeste
+1735,C01735,Dr. Benício Cunha,Santana,AP,Norte
+1736,C01736,Dra. Stephany da Luz,Blumenau,SC,Sul
+1737,C01737,Bryan da Mota,Lagarto,SE,Nordeste
+1738,C01738,Sophia Rocha,São Gonçalo,RJ,Sudeste
+1739,C01739,Amanda Sales,Itajaí,SC,Sul
+1740,C01740,Leonardo Pereira,Contagem,MG,Sudeste
+1741,C01741,Sarah Ribeiro,Blumenau,SC,Sul
+1742,C01742,Ana Laura Cavalcanti,Santo André,SP,Sudeste
+1743,C01743,Isabelly da Cunha,Curitiba,PR,Sul
+1744,C01744,Davi Lucas Silva,Linhares,ES,Sudeste
+1745,C01745,Yasmin Dias,Recife,PE,Nordeste
+1746,C01746,Nicolas Pires,Contagem,MG,Sudeste
+1747,C01747,Srta. Sofia da Mota,Serra,ES,Sudeste
+1748,C01748,Emanuella Alves,Fortaleza,CE,Nordeste
+1749,C01749,Sra. Emanuella Gonçalves,Caxias do Sul,RS,Sul
+1750,C01750,Maria Vitória Nogueira,Jaboatão dos Guararapes,PE,Nordeste
+1751,C01751,Cecília da Rocha,Patos,PB,Nordeste
+1752,C01752,Pedro Miguel Rocha,Linhares,ES,Sudeste
+1753,C01753,Ana Luiza Nunes,Joinville,SC,Sul
+1754,C01754,Diego Silva,Caracaraí,RR,Norte
+1755,C01755,Dra. Yasmin Lima,Ponta Grossa,PR,Sul
+1756,C01756,Marina Carvalho,Vilhena,RO,Norte
+1757,C01757,Dra. Helena Ribeiro,Cantá,RR,Norte
+1758,C01758,Davi Lopes,Curitiba,PR,Sul
+1759,C01759,Maria Vitória Ferreira,Duque de Caxias,RJ,Sudeste
+1760,C01760,Dr. Vitor Hugo Pereira,Londrina,PR,Sul
+1761,C01761,Camila da Conceição,Mucajaí,RR,Norte
+1762,C01762,Ana Júlia Moura,Tefé,AM,Norte
+1763,C01763,Pietra Duarte,Tefé,AM,Norte
+1764,C01764,Juan Novaes,Bom Jesus,PI,Nordeste
+1765,C01765,Marcela Moura,São Luís,MA,Nordeste
+1766,C01766,Sr. Cauê Martins,Gravataí,RS,Sul
+1767,C01767,Marcelo das Neves,Mazagão,AP,Norte
+1768,C01768,João Felipe Moraes,Campinas,SP,Sudeste
+1769,C01769,Levi Barbosa,Teresina,PI,Nordeste
+1770,C01770,Letícia da Cunha,Florianópolis,SC,Sul
+1771,C01771,Eloah da Mota,Porto Alegre,RS,Sul
+1772,C01772,Dra. Maria Julia Cardoso,Itajaí,SC,Sul
+1773,C01773,Juan Araújo,Timon,MA,Nordeste
+1774,C01774,Eduardo Pereira,Propriá,SE,Nordeste
+1775,C01775,João Miguel da Luz,Campina Grande,PB,Nordeste
+1776,C01776,Gustavo Melo,Manacapuru,AM,Norte
+1777,C01777,Sr. Marcelo Cunha,Vitória,ES,Sudeste
+1778,C01778,Gustavo Alves,Pelotas,RS,Sul
+1779,C01779,Yago Sales,Juiz de Fora,MG,Sudeste
+1780,C01780,Eduarda Melo,Serra,ES,Sudeste
+1781,C01781,Clara Campos,Bom Jesus,PI,Nordeste
+1782,C01782,Srta. Lara Ferreira,Joinville,SC,Sul
+1783,C01783,Sr. Davi Luiz Cardoso,Londrina,PR,Sul
+1784,C01784,Dr. Luiz Gustavo Aragão,Parnaíba,PI,Nordeste
+1785,C01785,Lucas Castro,Rio Branco,AC,Norte
+1786,C01786,Natália Novaes,Caxias,MA,Nordeste
+1787,C01787,Maitê da Conceição,Manaus,AM,Norte
+1788,C01788,Henrique Carvalho,Santo André,SP,Sudeste
+1789,C01789,Dra. Alícia Peixoto,Parintins,AM,Norte
+1790,C01790,Ana Clara das Neves,Bayeux,PB,Nordeste
+1791,C01791,Fernanda Rocha,Ribeirão Preto,SP,Sudeste
+1792,C01792,Joaquim Carvalho,Camaçari,BA,Nordeste
+1793,C01793,Marina da Paz,Parintins,AM,Norte
+1794,C01794,Vitor Hugo Martins,Parintins,AM,Norte
+1795,C01795,Bryan Ribeiro,Cachoeiro de Itapemirim,ES,Sudeste
+1796,C01796,Sophie da Conceição,Tarauacá,AC,Norte
+1797,C01797,Dra. Ana Clara Pinto,Rio de Janeiro,RJ,Sudeste
+1798,C01798,Maria Cecília Araújo,Manacapuru,AM,Norte
+1799,C01799,Antônio Melo,Currais Novos,RN,Nordeste
+1800,C01800,Ian Aragão,Manacapuru,AM,Norte
+1801,C01801,Brenda Monteiro,Santana,AP,Norte
+1802,C01802,Enzo Gabriel Moraes,Florianópolis,SC,Sul
+1803,C01803,Anthony Gomes,Ferreira Gomes,AP,Norte
+1804,C01804,Cecília Duarte,Duque de Caxias,RJ,Sudeste
+1805,C01805,Dra. Amanda Lima,Joinville,SC,Sul
+1806,C01806,Luiz Gustavo da Mota,Itacoatiara,AM,Norte
+1807,C01807,Sr. Carlos Eduardo Ribeiro,Niterói,RJ,Sudeste
+1808,C01808,Beatriz Mendes,Serra,ES,Sudeste
+1809,C01809,Maria Eduarda Pereira,Cascavel,PR,Sul
+1810,C01810,Maysa da Cunha,Contagem,MG,Sudeste
+1811,C01811,Helena Barros,Campinas,SP,Sudeste
+1812,C01812,Pedro Nogueira,Mucajaí,RR,Norte
+1813,C01813,Bianca Nascimento,Mossoró,RN,Nordeste
+1814,C01814,Larissa Lopes,Parnamirim,RN,Nordeste
+1815,C01815,Luiz Fernando Nunes,Ribeirão Preto,SP,Sudeste
+1816,C01816,Júlia Ferreira,Campina Grande,PB,Nordeste
+1817,C01817,Dra. Laura Silva,Caxias,MA,Nordeste
+1818,C01818,Ana Júlia Campos,Mossoró,RN,Nordeste
+1819,C01819,Dra. Ana Carolina Silva,Teresina,PI,Nordeste
+1820,C01820,Luiz Fernando Pereira,Laranjal do Jari,AP,Norte
+1821,C01821,Nicolas Campos,Vitória da Conquista,BA,Nordeste
+1822,C01822,Alexandre Moreira,Pelotas,RS,Sul
+1823,C01823,Olivia das Neves,Blumenau,SC,Sul
+1824,C01824,Maitê Caldeira,João Pessoa,PB,Nordeste
+1825,C01825,Manuela Teixeira,São Luís,MA,Nordeste
+1826,C01826,Emanuella das Neves,Contagem,MG,Sudeste
+1827,C01827,Valentina Melo,Vitória da Conquista,BA,Nordeste
+1828,C01828,Diego Cavalcanti,Mucajaí,RR,Norte
+1829,C01829,Leandro Porto,Lagarto,SE,Nordeste
+1830,C01830,Bianca Nunes,Caicó,RN,Nordeste
+1831,C01831,Eduarda Castro,Londrina,PR,Sul
+1832,C01832,Sra. Ana Beatriz Vieira,João Pessoa,PB,Nordeste
+1833,C01833,Carlos Eduardo Correia,Maringá,PR,Sul
+1834,C01834,Raquel Cunha,Londrina,PR,Sul
+1835,C01835,Sra. Clara Pereira,Caucaia,CE,Nordeste
+1836,C01836,Maria Luiza Melo,Itajaí,SC,Sul
+1837,C01837,Yago Sales,Campinas,SP,Sudeste
+1838,C01838,Leandro Moraes,Porto Alegre,RS,Sul
+1839,C01839,Raquel Moreira,Blumenau,SC,Sul
+1840,C01840,Manuela Rezende,Chapecó,SC,Sul
+1841,C01841,Luiz Felipe Costela,Porto Velho,RO,Norte
+1842,C01842,Joaquim Fogaça,Porto Alegre,RS,Sul
+1843,C01843,Levi Cardoso,Natal,RN,Nordeste
+1844,C01844,Luiz Miguel Ribeiro,Florianópolis,SC,Sul
+1845,C01845,Juan da Luz,Caruaru,PE,Nordeste
+1846,C01846,Maria Fernanda da Cunha,Pelotas,RS,Sul
+1847,C01847,Dr. Davi Lucas Dias,Ponta Grossa,PR,Sul
+1848,C01848,Ana Carolina Araújo,Linhares,ES,Sudeste
+1849,C01849,Ana Lívia Ferreira,Propriá,SE,Nordeste
+1850,C01850,Ana Júlia Duarte,Cantá,RR,Norte
+1851,C01851,Maria Vitória Vieira,Ferreira Gomes,AP,Norte
+1852,C01852,Davi Lucca Moraes,Caicó,RN,Nordeste
+1853,C01853,Lívia Pinto,São Paulo,SP,Sudeste
+1854,C01854,Benjamin Azevedo,Estância,SE,Nordeste
+1855,C01855,Carolina da Rosa,Aracaju,SE,Nordeste
+1856,C01856,Cauã da Costa,Niterói,RJ,Sudeste
+1857,C01857,Caio Gonçalves,Rio Branco,AC,Norte
+1858,C01858,Gabrielly da Cunha,Blumenau,SC,Sul
+1859,C01859,Luiz Gustavo Ribeiro,Cacoal,RO,Norte
+1860,C01860,Juan Fogaça,Currais Novos,RN,Nordeste
+1861,C01861,João Gabriel Teixeira,Londrina,PR,Sul
+1862,C01862,Sr. Juan Barros,Contagem,MG,Sudeste
+1863,C01863,Lívia Peixoto,São Luís,MA,Nordeste
+1864,C01864,Dra. Lara Alves,Pelotas,RS,Sul
+1865,C01865,Maria Fernanda da Mota,Caxias do Sul,RS,Sul
+1866,C01866,João Gabriel Porto,Santana,AP,Norte
+1867,C01867,Marcos Vinicius Rocha,Vilhena,RO,Norte
+1868,C01868,Laura Farias,Marabá,PA,Norte
+1869,C01869,Lívia Fogaça,Florianópolis,SC,Sul
+1870,C01870,Kevin Oliveira,Londrina,PR,Sul
+1871,C01871,Enzo da Rocha,Santa Maria,RS,Sul
+1872,C01872,Vitor Hugo Moura,Cascavel,PR,Sul
+1873,C01873,Thomas Ferreira,Ferreira Gomes,AP,Norte
+1874,C01874,Luiz Felipe Jesus,Uberlândia,MG,Sudeste
+1875,C01875,Dra. Maria Julia Correia,São Luís,MA,Nordeste
+1876,C01876,Alexandre Melo,Vila Velha,ES,Sudeste
+1877,C01877,Srta. Ana Beatriz da Mota,Cantá,RR,Norte
+1878,C01878,Sr. Nathan Farias,Rio de Janeiro,RJ,Sudeste
+1879,C01879,Igor Caldeira,Tarauacá,AC,Norte
+1880,C01880,Sra. Nicole Ramos,Caxias,MA,Nordeste
+1881,C01881,Sr. Joaquim Monteiro,Estância,SE,Nordeste
+1882,C01882,Maria Julia Nascimento,Vitória,ES,Sudeste
+1883,C01883,Yuri Jesus,São Gonçalo,RJ,Sudeste
+1884,C01884,Luiz Felipe Carvalho,Ponta Grossa,PR,Sul
+1885,C01885,Camila Campos,Manacapuru,AM,Norte
+1886,C01886,Joaquim Fernandes,Juazeiro do Norte,CE,Nordeste
+1887,C01887,Levi Fernandes,Ribeirão Preto,SP,Sudeste
+1888,C01888,Marina Rodrigues,Bayeux,PB,Nordeste
+1889,C01889,Kevin da Mota,Brasiléia,AC,Norte
+1890,C01890,Sr. Alexandre Cardoso,Castanhal,PA,Norte
+1891,C01891,Eduardo Oliveira,Ribeirão Preto,SP,Sudeste
+1892,C01892,Samuel Jesus,Nova Iguaçu,RJ,Sudeste
+1893,C01893,Luiz Henrique Castro,Betim,MG,Sudeste
+1894,C01894,Vitória Nogueira,Caxias do Sul,RS,Sul
+1895,C01895,Dra. Kamilly Nascimento,Olinda,PE,Nordeste
+1896,C01896,Luiz Otávio Duarte,Rio Branco,AC,Norte
+1897,C01897,João Guilherme Barros,Florianópolis,SC,Sul
+1898,C01898,Vicente Rocha,Caicó,RN,Nordeste
+1899,C01899,Dra. Ana Silva,Itacoatiara,AM,Norte
+1900,C01900,Marcela Cunha,Feira de Santana,BA,Nordeste
+1901,C01901,Ana Vitória Pinto,Rio de Janeiro,RJ,Sudeste
+1902,C01902,Isaac Freitas,Nova Iguaçu,RJ,Sudeste
+1903,C01903,Isabella Gonçalves,Vitória,ES,Sudeste
+1904,C01904,Augusto Ribeiro,Duque de Caxias,RJ,Sudeste
+1905,C01905,Valentina da Rosa,Araguaína,TO,Norte
+1906,C01906,Mirella Araújo,Pico,PI,Nordeste
+1907,C01907,Benício Silveira,Porto Alegre,RS,Sul
+1908,C01908,Felipe Dias,Nossa Senhora,SE,Nordeste
+1909,C01909,Murilo Vieira,Blumenau,SC,Sul
+1910,C01910,Bárbara Nascimento,Porto Alegre,RS,Sul
+1911,C01911,Stephany Pinto,Nova Iguaçu,RJ,Sudeste
+1912,C01912,Sr. João Felipe da Rosa,Ferreira Gomes,AP,Norte
+1913,C01913,Sr. Luiz Miguel Mendes,Rio de Janeiro,RJ,Sudeste
+1914,C01914,Ana Sophia Lima,Recife,PE,Nordeste
+1915,C01915,João Gabriel Fogaça,Ribeirão Preto,SP,Sudeste
+1916,C01916,Laís da Luz,Mossoró,RN,Nordeste
+1917,C01917,Dra. Esther Cardoso,Gurupi,TO,Norte
+1918,C01918,Joaquim Ribeiro,Serra,ES,Sudeste
+1919,C01919,Bryan Araújo,Ponta Grossa,PR,Sul
+1920,C01920,Ana Sophia da Rosa,Floriano,PI,Nordeste
+1921,C01921,Luna Almeida,Juiz de Fora,MG,Sudeste
+1922,C01922,Renan da Luz,Juazeiro do Norte,CE,Nordeste
+1923,C01923,Rafaela Pires,Araguaína,TO,Norte
+1924,C01924,Srta. Letícia Araújo,Castanhal,PA,Norte
+1925,C01925,Sr. Lucas da Rocha,Porto Nacional,TO,Norte
+1926,C01926,Ian Moreira,Patos,PB,Nordeste
+1927,C01927,Srta. Stella Nascimento,Chapecó,SC,Sul
+1928,C01928,Catarina Gonçalves,Niterói,RJ,Sudeste
+1929,C01929,Murilo da Paz,Tocantinópolis,TO,Norte
+1930,C01930,Laís da Paz,João Pessoa,PB,Nordeste
+1931,C01931,João Gabriel Duarte,Gravataí,RS,Sul
+1932,C01932,Isadora Rezende,Sena Madureira,AC,Norte
+1933,C01933,Arthur Silveira,Cantá,RR,Norte
+1934,C01934,Diego da Paz,Manacapuru,AM,Norte
+1935,C01935,Luna Aragão,Brasiléia,AC,Norte
+1936,C01936,Amanda Fogaça,Linhares,ES,Sudeste
+1937,C01937,Laís da Costa,Juiz de Fora,MG,Sudeste
+1938,C01938,Srta. Amanda Pires,Patos,PB,Nordeste
+1939,C01939,Emanuella Sales,Duque de Caxias,RJ,Sudeste
+1940,C01940,Pedro Lucas Farias,Parintins,AM,Norte
+1941,C01941,João Rezende,Recife,PE,Nordeste
+1942,C01942,Paulo Pinto,Rolim de Moura,RO,Norte
+1943,C01943,Enrico Jesus,Ferreira Gomes,AP,Norte
+1944,C01944,Diego Duarte,São Gonçalo,RJ,Sudeste
+1945,C01945,Breno Ferreira,Petrolina,PE,Nordeste
+1946,C01946,Vinicius Sales,São Luís,MA,Nordeste
+1947,C01947,Henrique da Mata,Nova Iguaçu,RJ,Sudeste
+1948,C01948,Daniel da Luz,Londrina,PR,Sul
+1949,C01949,Laís Moraes,Belém,PA,Norte
+1950,C01950,Luiz Miguel da Conceição,Belém,PA,Norte
+1951,C01951,Maria Julia Duarte,Marabá,PA,Norte
+1952,C01952,Milena Alves,Estância,SE,Nordeste
+1953,C01953,Eduarda da Costa,São Gonçalo,RJ,Sudeste
+1954,C01954,Lucas Gabriel Gonçalves,Sobral,CE,Nordeste
+1955,C01955,Eloah Silva,Sobral,CE,Nordeste
+1956,C01956,Sra. Melissa Gonçalves,Santarém,PA,Norte
+1957,C01957,Amanda Cunha,Caxias do Sul,RS,Sul
+1958,C01958,Carlos Eduardo Araújo,Bacabal,MA,Nordeste
+1959,C01959,Noah das Neves,Duque de Caxias,RJ,Sudeste
+1960,C01960,Dra. Manuela Alves,Pico,PI,Nordeste
+1961,C01961,João Guilherme Azevedo,Porto Alegre,RS,Sul
+1962,C01962,Júlia Cavalcanti,Belém,PA,Norte
+1963,C01963,Stephany Almeida,Santo André,SP,Sudeste
+1964,C01964,Emanuella das Neves,Jaboatão dos Guararapes,PE,Nordeste
+1965,C01965,Raul Rezende,Sobral,CE,Nordeste
+1966,C01966,Alícia Peixoto,Tefé,AM,Norte
+1967,C01967,Dr. Rafael Ribeiro,Gurupi,TO,Norte
+1968,C01968,Lara Barbosa,Gravataí,RS,Sul
+1969,C01969,Yuri da Costa,Cascavel,PR,Sul
+1970,C01970,Stephany Melo,Timon,MA,Nordeste
+1971,C01971,Dra. Ana Carolina da Rocha,Maringá,PR,Sul
+1972,C01972,Maria Julia Duarte,Caicó,RN,Nordeste
+1973,C01973,Sr. Levi Lopes,Contagem,MG,Sudeste
+1974,C01974,Sarah Ferreira,Cantá,RR,Norte
+1975,C01975,Bianca da Cunha,Cascavel,PR,Sul
+1976,C01976,Joana da Cruz,Gravataí,RS,Sul
+1977,C01977,Lorena Teixeira,Porto Nacional,TO,Norte
+1978,C01978,Elisa Martins,Caruaru,PE,Nordeste
+1979,C01979,Ana Carolina Rezende,Porto Velho,RO,Norte
+1980,C01980,Dra. Kamilly Correia,Santa Maria,RS,Sul
+1981,C01981,Rafaela Caldeira,Cruzeiro do Sul,AC,Norte
+1982,C01982,Leandro Castro,Feira de Santana,BA,Nordeste
+1983,C01983,Lara das Neves,Estância,SE,Nordeste
+1984,C01984,Francisco Nogueira,Ribeirão Preto,SP,Sudeste
+1985,C01985,Dra. Stella Dias,Londrina,PR,Sul
+1986,C01986,Benício Monteiro,Nova Iguaçu,RJ,Sudeste
+1987,C01987,Dra. Maria Porto,São Bernardo do Campo,SP,Sudeste
+1988,C01988,Maysa Sales,Porto Velho,RO,Norte
+1989,C01989,Sr. Leandro Lima,Maringá,PR,Sul
+1990,C01990,Sra. Emanuelly Duarte,Tefé,AM,Norte
+1991,C01991,Vinicius Araújo,Brasiléia,AC,Norte
+1992,C01992,Enzo Melo,Serra,ES,Sudeste
+1993,C01993,Laís Farias,Mazagão,AP,Norte
+1994,C01994,Samuel Fernandes,Blumenau,SC,Sul
+1995,C01995,Mariane Dias,Santa Maria,RS,Sul
+1996,C01996,Luiz Otávio Azevedo,Joinville,SC,Sul
+1997,C01997,Guilherme Alves,Nossa Senhora,SE,Nordeste
+1998,C01998,Sra. Maria Alice Costa,Parnamirim,RN,Nordeste
+1999,C01999,Ana Clara da Mota,Maringá,PR,Sul
+2000,C02000,Sr. Anthony Rocha,São Luís,MA,Nordeste

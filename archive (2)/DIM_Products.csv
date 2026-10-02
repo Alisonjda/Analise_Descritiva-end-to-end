@@ -1,0 +1,22 @@
+Id,Product_Id,Product_Name,Category,Subcategory,Price
+1,P0001,Samsung Galaxy A36,Eletrônicos,"Celulares, Tablets e Acessórios",1979.1
+2,P0002,Samsung Galaxy Tab S6 Lite,Eletrônicos,"Celulares, Tablets e Acessórios",1799.01
+3,P0003,Carregador Turbo USB-C 30W,Eletrônicos,"Celulares, Tablets e Acessórios",49.9
+4,P0004,Carregador Turbo Tipo-C 50w,Eletrônicos,"Celulares, Tablets e Acessórios",53.9
+5,P0005,"Fone de Ouvido Sem Fio TWS, PHILIPS",Eletrônicos,"Celulares, Tablets e Acessórios",124.91
+6,P0006,Fone de ouvido Sem Fio QCY T27,Eletrônicos,"Celulares, Tablets e Acessórios",129.86
+7,P0007,Película para iPhone 14Pro Anti impacto,Eletrônicos,"Celulares, Tablets e Acessórios",51.8
+8,P0008,Película de Vidro 3D Galaxy A30s,Eletrônicos,"Celulares, Tablets e Acessórios",17.9
+9,P0009,Smart TV 32” Philco LED Roku TV,Eletrônicos,Áudio e Vídeo,949.0
+10,P0010,"Smart TV LED 32""Samsung LED Tizen TV",Eletrônicos,Áudio e Vídeo,1079.0
+11,P0011,"Soundbar Samsung com 2.1 canais, Dolby Digital",Eletrônicos,Áudio e Vídeo,1072.0
+12,P0012,"Soundbar Tomate MTS-2017, Bivolt",Eletrônicos,Áudio e Vídeo,769.9
+13,P0013,"Projetor Smart Epson EpiqVision, FULL HD",Eletrônicos,Áudio e Vídeo,3049.99
+14,P0014,Projetor EPSON Powerlite Wide Screen,Eletrônicos,Áudio e Vídeo,2742.13
+15,P0015,Fone de Ouvido Profissional AKG K92,Eletrônicos,Áudio e Vídeo,428.99
+16,P0016,Fone de Ouvido Profissional EDIFIER WH950NB,Eletrônicos,Áudio e Vídeo,899.0
+17,P0017,ACER Notebook Gamer Nitro,Eletrônicos,Informática,4604.0
+18,P0018,"Monitor UHD Samsung 32""",Eletrônicos,Informática,1626.57
+19,P0019,Mouse Redragon Wireless,Eletrônicos,Informática,165.99
+20,P0020,Teclado Mecanico Fizz,Eletrônicos,Informática,174.9
+21,P0021,SSD Crucial 1TB NVMe M.2,Eletrônicos,Informática,449.0

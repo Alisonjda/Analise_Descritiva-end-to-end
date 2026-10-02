@@ -1,0 +1,44 @@
+
+
+analise-descritiva-end-to-end/
+│
+├── data/
+│   ├── raw/
+        Todos os dados:
+            DIM_Customer.csv
+            DIM_Delivery.csv
+            DIM_Products.csv
+            DIM_Shopping.csv
+            FACT_Orders.csv
+
+│   └── processed/
+│
+├── notebooks/
+│   ├── 01_entendimento_dos_dados.ipynb:
+            Onde carregamos os 5 CSVs, verificar estruturas, nulos,
+            Duplicidades, tipos de dados e relacionamentos.
+
+│   ├── 02_limpeza_e_tratamento.ipynb
+            Transformar os dados brutos em dadosconfiaveis
+            para análise
+
+│   ├── 03_analise_exploratoria.ipynb
+            Análise Exploratória de Dados 
+            (EDA — Exploratory Data Analysis = a EDA serve
+            para fazer perguntas aos dados e procurar respostas)
+            investigação dos dados com KPIs (indicador chave de desempenho)
+    __ KPIs
+     - Faturamentos
+     - Pedidos
+     - Ticket medio
+
+
+│   └── 04_insights.ipynb
+│
+├── src/
+│   └── tratamento.py
+│
+├── visualizacoes/
+│
+├── README.md
+└── requirements.txt
